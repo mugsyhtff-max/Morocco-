@@ -1,0 +1,1528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Foum Zguid Trip — Luxury Sahara Experiences in Morocco | Private Desert Camps, Erg Chegaga & Lake Iriki</title>
+<meta name="description" content="Foum Zguid Trip crafts private luxury Sahara experiences from Morocco's best-kept secret: Erg Chegaga dunes, Lake Iriki mirages, nomad hospitality, Bortle-1 stargazing and five-star desert camps.">
+<meta name="keywords" content="Foum Zguid, Erg Chegaga, Lake Iriki, luxury desert camp Morocco, Sahara tours, camel trekking, stargazing Sahara, Morocco luxury travel">
+<link rel="canonical" href="https://www.foumzguidtrip.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Foum Zguid Trip">
+<meta property="og:title" content="Foum Zguid Trip — Luxury Sahara Experiences, Morocco">
+<meta property="og:description" content="Private dune expeditions, starlit luxury camps and ancient silence at the edge of Erg Chegaga.">
+<meta property="og:url" content="https://www.foumzguidtrip.com/">
+<meta property="og:image" content="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/17267312b-3c83-47c5-ae18-8594d68eda28.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Foum Zguid Trip — Luxury Sahara Experiences, Morocco">
+<meta name="twitter:description" content="Private dune expeditions, starlit luxury camps and ancient silence at the edge of Erg Chegaga.">
+<meta name="twitter:image" content="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/17267312b-3c83-47c5-ae18-8594d68eda28.png">
+<meta name="theme-color" content="#0e0a07">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%230e0a07'/%3E%3Cpath d='M10 42c8-10 16-14 22-14s14 4 22 14' fill='none' stroke='%23d8a95b' stroke-width='3' stroke-linecap='round'/%3E%3Ccircle cx='44' cy='20' r='5' fill='%23d8a95b'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/italiana@5.1.0/index.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/cormorant-garamond@5.1.0/400-italic.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/cormorant-garamond@5.1.0/500.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/outfit@5.1.0/300.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/outfit@5.1.0/400.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/outfit@5.1.0/500.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fontsource/outfit@5.1.0/600.css" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"TravelAgency","name":"Foum Zguid Trip","url":"https://www.foumzguidtrip.com/","logo":"https://www.foumzguidtrip.com/logo.png","image":"https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/17267312b-3c83-47c5-ae18-8594d68eda28.png","description":"Luxury Sahara experiences from Foum Zguid, Morocco: private Erg Chegaga expeditions, Lake Iriki crossings, nomad culture and five-star desert camps.","address":{"@type":"PostalAddress","addressLocality":"Foum Zguid","addressRegion":"Tata Province, Drâa-Tafilalet","addressCountry":"MA"},"telephone":"+212661234567","email":"hello@foumzguidtrip.com","priceRange":"€€€","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"487"},"areaServed":"Sahara, Morocco"},
+{"@type":"TouristDestination","name":"Erg Chegaga","description":"One of Morocco's two great sand seas, reached privately from Foum Zguid.","touristType":"Adventure, Luxury"},
+{"@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How do I reach Foum Zguid?","acceptedAnswer":{"@type":"Answer","text":"Foum Zguid sits 90 minutes south of Agdz on the N9 corridor. Most guests fly into Marrakech or Ouarzazate; we arrange private transfers, or you can self-drive on excellent paved roads to our base."}},
+{"@type":"Question","name":"When is the best time to visit the Sahara?","acceptedAnswer":{"@type":"Answer","text":"October to April offers warm days (20–28°C) and crisp, star-filled nights. Summer is for the bold — dramatic light, empty dunes, early starts."}},
+{"@type":"Question","name":"Is the luxury camp suitable for children?","acceptedAnswer":{"@type":"Answer","text":"Yes. Families are welcome from age six; camels, sandboarding and stargazing are tailored to young explorers, and private tents sleep up to four."}}]}]}
+</script>
+<style>
+/* ============ TOKENS ============ */
+:root{
+  --bg:#0e0a07; --bg2:#151009; --bg3:#1c150c; --cream:#f1e8d7; --cream2:#e9dec6;
+  --ink:#241a10; --ink-m:#6d5c44; --gold:#d8a95b; --gold2:#b98436; --ember:#c9703b;
+  --sand:#cbb691; --text:#ece4d3; --muted:#b3a68d; --line:rgba(216,169,91,.22);
+  --line-d:rgba(36,26,16,.16); --oasis:#0e1a12; --night:#0a0d15; --emberbg:#190e07;
+  --disp:'Italiana',serif; --serif:'Cormorant Garamond',serif; --sans:'Outfit',sans-serif;
+  --ease:cubic-bezier(.19,1,.22,1); --nav-h:78px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:calc(var(--nav-h) + 14px)}
+body{background:var(--bg);color:var(--text);font:300 16px/1.7 var(--sans);overflow-x:hidden;-webkit-font-smoothing:antialiased}
+body.locked{overflow:hidden}
+::selection{background:var(--gold);color:#1c1206}
+img{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+button{font-family:var(--sans);cursor:pointer;background:none;border:none;color:inherit}
+ul{list-style:none}
+::-webkit-scrollbar{width:10px}::-webkit-scrollbar-track{background:#0a0704}::-webkit-scrollbar-thumb{background:#3a2c1a;border-radius:6px}::-webkit-scrollbar-thumb:hover{background:var(--gold2)}
+.skip{position:fixed;left:-999px;top:10px;z-index:400;background:var(--gold);color:#1c1206;padding:10px 18px;border-radius:8px;font-weight:600}
+.skip:focus{left:10px}
+:focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:4px}
+.wrap{width:min(1220px,92vw);margin:0 auto}
+/* ============ LOADER ============ */
+#loader{position:fixed;inset:0;z-index:300;background:#0a0704;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:22px;transition:opacity .9s var(--ease),visibility .9s}
+#loader .lw{font:400 clamp(2rem,6vw,3.6rem)/1 var(--disp);letter-spacing:.42em;text-indent:.42em;color:var(--cream);white-space:nowrap}
+#loader .lw em{font:italic 500 .45em var(--serif);color:var(--gold);letter-spacing:.2em;display:block;text-align:center;margin-top:10px}
+#loader .lbar{width:min(300px,60vw);height:1px;background:rgba(216,169,91,.18);position:relative;overflow:hidden}
+#loader .lbar i{position:absolute;inset:0;background:var(--gold);transform:scaleX(0);transform-origin:left;animation:lfill 2.2s var(--ease) forwards}
+@keyframes lfill{to{transform:scaleX(1)}}
+#loader .lpc{font:500 11px var(--sans);letter-spacing:.3em;color:var(--muted)}
+body.is-loaded #loader{opacity:0;visibility:hidden}
+/* ============ CURSOR / SAND ============ */
+#glow{position:fixed;z-index:1;width:520px;height:520px;border-radius:50%;pointer-events:none;background:radial-gradient(circle,rgba(216,169,91,.09),transparent 65%);transform:translate(-50%,-50%);left:-999px;top:-999px;mix-blend-mode:screen}
+#sand{position:fixed;inset:0;z-index:2;pointer-events:none;opacity:.55}
+/* ============ NAV ============ */
+#nav{position:fixed;top:0;left:0;right:0;z-index:200;height:var(--nav-h);display:flex;align-items:center;transition:background .5s,box-shadow .5s,backdrop-filter .5s}
+#nav.scrolled{background:rgba(12,8,5,.72);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);box-shadow:0 1px 0 var(--line),0 18px 40px rgba(0,0,0,.35)}
+#nav .nwrap{width:min(1360px,94vw);margin:0 auto;display:flex;align-items:center;gap:26px}
+.brand{display:flex;align-items:center;gap:12px;margin-right:auto}
+.brand svg{width:38px;height:38px}
+.brand .bt{font:400 19px/1.05 var(--disp);letter-spacing:.24em;color:var(--cream)}
+.brand .bt small{display:block;font:italic 500 11px var(--serif);letter-spacing:.28em;color:var(--gold)}
+.nlinks{display:flex;gap:4px}
+.nlinks a{position:relative;padding:10px 13px;font:500 12px/1 var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--muted);transition:color .3s}
+.nlinks a::after{content:"";position:absolute;left:13px;right:13px;bottom:5px;height:1px;background:var(--gold);transform:scaleX(0);transform-origin:left;transition:transform .4s var(--ease)}
+.nlinks a:hover,.nlinks a.active{color:var(--cream)}
+.nlinks a:hover::after,.nlinks a.active::after{transform:scaleX(1)}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:15px 30px;border-radius:999px;font:600 12px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;position:relative;overflow:hidden;transition:transform .35s var(--ease),box-shadow .35s}
+.btn-primary{background:linear-gradient(120deg,var(--gold2),var(--gold) 55%,#e9c584);color:#241505;box-shadow:0 10px 30px rgba(216,169,91,.25)}
+.btn-primary::after{content:"";position:absolute;top:0;bottom:0;width:40%;left:-60%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.55),transparent);transform:skewX(-20deg);transition:left .7s var(--ease)}
+.btn-primary:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(216,169,91,.4)}
+.btn-primary:hover::after{left:130%}
+.btn-ghost{border:1px solid var(--line);color:var(--cream);backdrop-filter:blur(6px)}
+.btn-ghost:hover{border-color:var(--gold);color:var(--gold);transform:translateY(-3px)}
+.btn .ar{transition:transform .3s}.btn:hover .ar{transform:translateX(5px)}
+#nav .btn{padding:12px 24px}
+#burger{display:none;flex-direction:column;gap:6px;padding:8px}
+#burger span{width:26px;height:1.5px;background:var(--cream);transition:.4s var(--ease)}
+body.menu-open #burger span:nth-child(1){transform:translateY(7.5px) rotate(45deg)}
+body.menu-open #burger span:nth-child(2){opacity:0}
+body.menu-open #burger span:nth-child(3){transform:translateY(-7.5px) rotate(-45deg)}
+#progress{position:fixed;top:0;left:0;height:2px;width:0;background:linear-gradient(90deg,var(--gold2),var(--gold));z-index:210}
+/* mobile menu */
+#mmenu{position:fixed;inset:0;z-index:190;background:rgba(10,7,4,.96);backdrop-filter:blur(20px);display:flex;flex-direction:column;justify-content:center;padding:12vh 8vw;gap:4px;clip-path:circle(0 at calc(100% - 44px) 40px);transition:clip-path .8s var(--ease);visibility:hidden}
+body.menu-open #mmenu{clip-path:circle(150% at calc(100% - 44px) 40px);visibility:visible}
+#mmenu a{font:400 clamp(1.7rem,6vw,2.6rem)/1.5 var(--disp);letter-spacing:.12em;color:var(--cream);opacity:0;transform:translateY(24px);transition:.6s var(--ease)}
+#mmenu a:hover{color:var(--gold)}
+body.menu-open #mmenu a{opacity:1;transform:none}
+#mmenu .mfoot{margin-top:5vh;color:var(--muted);font-size:13px;letter-spacing:.12em}
+/* ============ HERO ============ */
+#top{position:relative;min-height:100svh;display:flex;align-items:flex-end;overflow:hidden}
+#top .himg{position:absolute;inset:0}
+#top .himg img{width:100%;height:100%;object-fit:cover;transform-origin:center;animation:kb 22s var(--ease) infinite alternate}
+@keyframes kb{from{transform:scale(1)}to{transform:scale(1.1) translate(-1.5%,1%)}}
+#top .hshade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,7,4,.55),rgba(10,7,4,.05) 35%,rgba(10,7,4,.2) 62%,rgba(10,7,4,.92));}
+#top .rays{position:absolute;inset:-30%;background:conic-gradient(from 0deg at 70% 20%,transparent 0 12deg,rgba(255,205,120,.14) 14deg 18deg,transparent 20deg 60deg,rgba(255,205,120,.1) 64deg 68deg,transparent 70deg);mix-blend-mode:soft-light;animation:rays 46s linear infinite}
+@keyframes rays{to{transform:rotate(360deg)}}
+.hcontent{position:relative;z-index:5;width:min(1360px,94vw);margin:0 auto;padding:calc(var(--nav-h) + 4vh) 0 9vh}
+.hmeta{display:flex;gap:18px;align-items:center;font:500 11px var(--sans);letter-spacing:.32em;text-transform:uppercase;color:var(--gold);margin-bottom:22px}
+.hmeta .dot{width:5px;height:5px;border-radius:50%;background:var(--gold)}
+.hero-title{font:400 clamp(3.4rem,11.5vw,9.6rem)/0.98 var(--disp);letter-spacing:.06em;text-transform:uppercase;color:var(--cream)}
+.hero-title .line{display:block;overflow:hidden}
+.hero-title .ch{display:inline-block;transform:translateY(115%);transition:transform 1.2s var(--ease);transition-delay:calc(var(--i)*.055s + .25s)}
+body.is-loaded .hero-title .ch{transform:none}
+.hsub{max-width:560px;margin-top:26px;font:italic 500 clamp(1.05rem,2vw,1.35rem)/1.6 var(--serif);color:var(--sand);opacity:0;transform:translateY(26px);transition:1s var(--ease) .9s}
+.hcta{display:flex;gap:16px;flex-wrap:wrap;margin-top:34px;opacity:0;transform:translateY(26px);transition:1s var(--ease) 1.15s}
+body.is-loaded .hsub,body.is-loaded .hcta{opacity:1;transform:none}
+.hside{position:absolute;right:3.4vw;bottom:9vh;z-index:6;writing-mode:vertical-rl;font:500 11px var(--sans);letter-spacing:.4em;color:var(--muted);display:flex;gap:14px;align-items:center}
+.hside .scr{color:var(--gold)}
+.hscroll{position:absolute;left:50%;bottom:3.4vh;z-index:6;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:10px;color:var(--muted);font:500 10px var(--sans);letter-spacing:.4em;text-transform:uppercase}
+.hscroll i{width:1px;height:52px;background:var(--line);position:relative;overflow:hidden;display:block}
+.hscroll i::after{content:"";position:absolute;top:-40%;left:0;width:100%;height:40%;background:var(--gold);animation:drip 2.2s var(--ease) infinite}
+@keyframes drip{to{top:110%}}
+/* marquee */
+.marquee{background:linear-gradient(90deg,#171008,#1e150a 50%,#171008);border-block:1px solid var(--line);overflow:hidden;padding:16px 0}
+.mq-track{display:flex;width:max-content;animation:mq 34s linear infinite}
+.mq-track:hover{animation-play-state:paused}
+.mq-track span{font:400 15px var(--disp);letter-spacing:.34em;text-transform:uppercase;color:var(--gold);padding:0 26px;white-space:nowrap}
+.mq-track span i{font-style:normal;color:var(--muted)}
+@keyframes mq{to{transform:translateX(-50%)}}
+/* ============ SECTION BASE ============ */
+.sec{padding:clamp(90px,11vw,150px) 0;position:relative}
+.eyebrow{display:flex;align-items:center;gap:14px;font:600 11px var(--sans);letter-spacing:.34em;text-transform:uppercase;color:var(--gold)}
+.eyebrow::before{content:"";width:44px;height:1px;background:var(--gold)}
+.sec-title{font:400 clamp(2.2rem,5vw,4rem)/1.08 var(--disp);letter-spacing:.03em;margin:18px 0 0}
+.sec-sub{font:italic 500 clamp(1.05rem,1.7vw,1.25rem)/1.65 var(--serif);color:var(--muted);max-width:640px;margin-top:16px}
+.light{background:var(--cream);color:var(--ink)}
+.light .sec-sub{color:var(--ink-m)}
+.light .eyebrow{color:var(--gold2)}.light .eyebrow::before{background:var(--gold2)}
+[data-rv]{opacity:0;transform:translateY(34px);transition:opacity 1s var(--ease),transform 1s var(--ease)}
+[data-rv].in{opacity:1;transform:none}
+[data-rv="left"]{transform:translateX(-44px)}[data-rv="right"]{transform:translateX(44px)}
+[data-rv="scale"]{transform:scale(.92)}[data-rv="mask"]{transform:none;clip-path:inset(0 0 100% 0);transition:clip-path 1.2s var(--ease),opacity 1s}
+[data-rv="mask"].in{clip-path:inset(0 0 0% 0)}
+.dly1{transition-delay:.12s}.dly2{transition-delay:.24s}.dly3{transition-delay:.36s}.dly4{transition-delay:.48s}
+/* ============ ABOUT ============ */
+#about .agrid{display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(40px,6vw,90px);align-items:start}
+#about .sticky{position:sticky;top:calc(var(--nav-h) + 30px)}
+#about p.body{margin-top:22px;color:var(--muted);max-width:56ch}
+#about p.body strong{color:var(--cream);font-weight:500}
+#about .dropcap::first-letter{font:400 3.4em/0.85 var(--disp);color:var(--gold);float:left;padding-right:12px;padding-top:6px}
+.achips{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}
+.achips li{border:1px solid var(--line);border-radius:999px;padding:9px 18px;font:500 11px var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--sand)}
+.acollage{position:relative;min-height:640px}
+.acollage .ph{position:absolute;border-radius:18px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.5);border:1px solid rgba(255,255,255,.08)}
+.acollage .ph img{width:100%;height:100%;object-fit:cover;transition:transform 1.4s var(--ease)}
+.acollage .ph:hover img{transform:scale(1.06)}
+.acollage .ph1{width:72%;height:68%;top:0;right:0}
+.acollage .ph2{width:52%;height:46%;bottom:0;left:0}
+.acollage .quote{position:absolute;right:0;bottom:12%;background:rgba(20,14,8,.78);backdrop-filter:blur(14px);border:1px solid var(--line);border-radius:16px;padding:22px 26px;max-width:280px;font:italic 500 1.02rem/1.55 var(--serif);color:var(--sand)}
+.acollage .quote b{display:block;margin-top:10px;font:600 10px var(--sans);letter-spacing:.3em;color:var(--gold);text-transform:uppercase}
+/* ============ WHY ============ */
+#why .wgrid{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(40px,6vw,90px)}
+#why .wlist{border-top:1px solid var(--line-d)}
+#why .witem{display:grid;grid-template-columns:90px 1fr;gap:22px;padding:30px 6px;border-bottom:1px solid var(--line-d);transition:background .4s,padding .4s}
+#why .witem:hover{background:rgba(185,132,54,.07);padding-left:18px}
+#why .wnum{font:400 2.6rem/1 var(--disp);color:transparent;-webkit-text-stroke:1px var(--gold2);transition:.4s}
+#why .witem:hover .wnum{color:var(--gold2);-webkit-text-stroke:0}
+#why h3{font:400 1.35rem var(--disp);letter-spacing:.06em;margin-bottom:6px}
+#why .witem p{color:var(--ink-m);font-size:.95rem}
+/* ============ DESTINATION PANELS ============ */
+.panel{position:relative;overflow:hidden}
+.panel .pimg{position:absolute;inset:0}
+.panel .pimg img{width:100%;height:105%;object-fit:cover;will-change:transform}
+.panel .pshade{position:absolute;inset:0}
+.pcontent{position:relative;z-index:4}
+/* Erg Chegaga */
+#erg-chegaga{min-height:96vh;display:flex;align-items:flex-end}
+#erg-chegaga .pshade{background:linear-gradient(180deg,rgba(10,7,4,.35),transparent 40%,rgba(10,7,4,.9))}
+#erg-chegaga .pcontent{width:min(1360px,94vw);margin:0 auto;padding:0 0 9vh}
+#erg-chegaga h2{font:400 clamp(2.6rem,7vw,5.6rem)/1 var(--disp);color:var(--cream);letter-spacing:.04em}
+#erg-chegaga .bigq{font:italic 500 clamp(1.15rem,2.2vw,1.6rem)/1.6 var(--serif);color:var(--sand);max-width:640px;margin-top:18px}
+.pfacts{display:flex;gap:14px;flex-wrap:wrap;margin-top:28px}
+.pfacts li{background:rgba(14,10,7,.55);backdrop-filter:blur(12px);border:1px solid var(--line);border-radius:14px;padding:14px 20px;min-width:150px}
+.pfacts b{display:block;font:400 1.5rem var(--disp);color:var(--gold)}
+.pfacts span{font:500 10px var(--sans);letter-spacing:.26em;text-transform:uppercase;color:var(--muted)}
+/* Lake Iriki (light) */
+#lake-iriki{background:var(--cream2);color:var(--ink)}
+#lake-iriki .igrid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(36px,5vw,80px);align-items:center}
+#lake-iriki .frame{border-radius:20px;overflow:hidden;box-shadow:0 40px 80px rgba(60,40,10,.25);position:relative}
+#lake-iriki .frame::after{content:"";position:absolute;inset:12px;border:1px solid rgba(241,232,215,.6);border-radius:12px;pointer-events:none}
+#lake-iriki .frame img{transition:transform 1.4s var(--ease)}
+#lake-iriki .frame:hover img{transform:scale(1.05)}
+#lake-iriki .mirage{font:italic 500 1.3rem/1.6 var(--serif);color:var(--gold2);margin-top:20px}
+#lake-iriki p.body{color:var(--ink-m);margin-top:16px}
+/* Anti Atlas */
+#anti-atlas{background:#12100c}
+#anti-atlas .agrid2{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(36px,5vw,80px);align-items:center}
+#anti-atlas .tilt{transform:rotate(-2deg);border-radius:20px;overflow:hidden;box-shadow:0 40px 90px rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.07)}
+#anti-atlas .tilt img{transition:transform 1.4s var(--ease)}
+#anti-atlas .tilt:hover img{transform:scale(1.06)}
+#anti-atlas p.body{color:var(--muted);margin-top:18px}
+#anti-atlas .tags{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+#anti-atlas .tags li{font:500 11px var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--sand);border:1px solid var(--line);border-radius:999px;padding:8px 16px}
+/* Oasis */
+#oasis{background:var(--oasis)}
+#oasis .ogrid{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(36px,5vw,80px);align-items:center}
+#oasis .eyebrow{color:#8fd0a4}#oasis .eyebrow::before{background:#8fd0a4}
+#oasis p.body{color:#b9c6b4;margin-top:18px}
+#oasis .round{border-radius:50% 50% 46% 54%/58% 44% 56% 42%;overflow:hidden;box-shadow:0 40px 90px rgba(0,0,0,.5);border:1px solid rgba(143,208,164,.25)}
+#oasis .round img{transition:transform 1.6s var(--ease)}
+#oasis .round:hover img{transform:scale(1.07) rotate(1deg)}
+/* Nomad */
+#nomad{background:var(--emberbg)}
+#nomad::before{content:"";position:absolute;inset:0;background:radial-gradient(60% 50% at 20% 80%,rgba(201,112,59,.16),transparent 70%)}
+#nomad .ngrid{display:grid;grid-template-columns:.95fr 1.05fr;gap:clamp(36px,5vw,80px);align-items:center}
+#nomad .nimg{border-radius:20px;overflow:hidden;box-shadow:0 40px 90px rgba(0,0,0,.55)}
+#nomad .nimg img{transition:transform 1.4s var(--ease)}
+#nomad .nimg:hover img{transform:scale(1.05)}
+#nomad p.body{color:var(--muted);margin-top:18px}
+#nomad .nquote{font:italic 500 clamp(1.2rem,2.2vw,1.6rem)/1.55 var(--serif);color:var(--sand);border-left:2px solid var(--ember);padding-left:24px;margin-top:26px}
+/* dune divider */
+.dunes{line-height:0;position:relative;z-index:5}
+.dunes svg{width:100%;height:110px;display:block}
+.dunes .db{opacity:.35}
+/* ============ CAMP ============ */
+#camp .cgrid{display:grid;grid-template-columns:1.15fr .85fr;gap:18px;margin-top:56px}
+#camp .cmain{border-radius:22px;overflow:hidden;position:relative;min-height:520px;box-shadow:0 40px 90px rgba(60,40,10,.3)}
+#camp .cmain img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 1.6s var(--ease)}
+#camp .cmain:hover img{transform:scale(1.05)}
+#camp .cglass{position:absolute;left:22px;right:22px;bottom:22px;background:rgba(14,10,7,.6);backdrop-filter:blur(16px);border:1px solid var(--line);border-radius:16px;padding:20px 24px;display:flex;gap:26px;flex-wrap:wrap}
+#camp .cglass div b{font:400 1.3rem var(--disp);color:var(--gold);display:block}
+#camp .cglass div span{font:500 10px var(--sans);letter-spacing:.24em;text-transform:uppercase;color:var(--muted)}
+#camp .cside{display:grid;gap:18px}
+#camp .cside .cimg{border-radius:22px;overflow:hidden;position:relative;flex:1;min-height:250px;box-shadow:0 30px 70px rgba(60,40,10,.28)}
+#camp .cside .cimg img{width:100%;height:100%;object-fit:cover;transition:transform 1.4s var(--ease)}
+#camp .cside .cimg:hover img{transform:scale(1.06)}
+#camp .amen{display:grid;grid-template-columns:1fr 1fr;gap:12px 26px;margin-top:44px}
+#camp .amen li{display:flex;gap:12px;align-items:flex-start;color:var(--ink-m);font-size:.95rem;padding:12px 0;border-bottom:1px solid var(--line-d)}
+#camp .amen svg{width:18px;height:18px;stroke:var(--gold2);flex:none;margin-top:3px}
+/* ============ EXPERIENCES ============ */
+#experiences .egrid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:60px}
+.xcard{background:linear-gradient(160deg,#1a130b,#120d07);border:1px solid var(--line);border-radius:20px;overflow:hidden;display:flex;flex-direction:column;transition:transform .5s var(--ease),box-shadow .5s,border-color .5s}
+.xcard:hover{transform:translateY(-10px);border-color:rgba(216,169,91,.5);box-shadow:0 30px 70px rgba(0,0,0,.55)}
+.xcard .ximg{height:230px;overflow:hidden;position:relative}
+.xcard .ximg img{width:100%;height:100%;object-fit:cover;transition:transform 1.3s var(--ease)}
+.xcard:hover .ximg img{transform:scale(1.09)}
+.xcard .xcat{position:absolute;top:14px;left:14px;background:rgba(14,10,7,.65);backdrop-filter:blur(10px);border:1px solid var(--line);color:var(--gold);font:600 9.5px var(--sans);letter-spacing:.26em;text-transform:uppercase;border-radius:999px;padding:7px 14px}
+.xcard .xbody{padding:24px 24px 26px;display:flex;flex-direction:column;gap:12px;flex:1}
+.xcard h3{font:400 1.5rem var(--disp);letter-spacing:.04em;color:var(--cream)}
+.xcard .xshort{color:var(--muted);font-size:.93rem;flex:1}
+.xmeta{display:flex;gap:16px;flex-wrap:wrap;font:500 10.5px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--sand)}
+.xmeta span{display:flex;gap:7px;align-items:center}
+.xmeta svg{width:14px;height:14px;stroke:var(--gold)}
+.btn-disc{align-self:flex-start;display:inline-flex;align-items:center;gap:10px;font:600 11px var(--sans);letter-spacing:.26em;text-transform:uppercase;color:var(--gold);padding:6px 0;position:relative}
+.btn-disc::after{content:"";position:absolute;left:0;bottom:0;height:1px;width:100%;background:var(--gold);transform:scaleX(.35);transform-origin:left;transition:transform .45s var(--ease)}
+.btn-disc:hover::after{transform:scaleX(1)}
+.btn-disc svg{width:15px;height:15px;transition:transform .3s}
+.btn-disc:hover svg{transform:translateX(5px)}
+/* ============ TOURS ============ */
+#tours{background:var(--bg2)}
+.tscroll{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;padding:56px 4px 26px;scrollbar-width:none}
+.tscroll::-webkit-scrollbar{display:none}
+.tcard{flex:0 0 min(400px,84vw);scroll-snap-align:start;background:linear-gradient(170deg,#20180e,#140e07);border:1px solid var(--line);border-radius:20px;overflow:hidden;display:flex;flex-direction:column;transition:transform .5s var(--ease),border-color .4s}
+.tcard:hover{transform:translateY(-8px);border-color:rgba(216,169,91,.5)}
+.tcard .timg{height:210px;overflow:hidden;position:relative}
+.tcard .timg img{width:100%;height:100%;object-fit:cover;transition:transform 1.3s var(--ease)}
+.tcard:hover .timg img{transform:scale(1.08)}
+.tcard .tkind{position:absolute;top:14px;left:14px;background:linear-gradient(120deg,var(--gold2),var(--gold));color:#241505;font:600 9.5px var(--sans);letter-spacing:.24em;text-transform:uppercase;border-radius:999px;padding:7px 14px}
+.tcard .tbody{padding:24px;display:flex;flex-direction:column;gap:12px;flex:1}
+.tcard h3{font:400 1.55rem var(--disp);color:var(--cream)}
+.tcard .tmeta{display:flex;gap:16px;font:500 10.5px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--sand)}
+.tcard .troute{border-left:1px solid var(--line);padding-left:16px;display:flex;flex-direction:column;gap:6px;color:var(--muted);font-size:.9rem;flex:1}
+.tcard .troute li::before{content:"◆";color:var(--gold);font-size:8px;margin-right:9px;vertical-align:2px}
+.tcard .tfoot{display:flex;justify-content:space-between;align-items:center;margin-top:6px}
+.tcard .price{font:400 1.25rem var(--disp);color:var(--gold)}
+.tnav{display:flex;gap:12px;justify-content:flex-end;margin-top:8px}
+.tnav button{width:52px;height:52px;border-radius:50%;border:1px solid var(--line);color:var(--gold);display:grid;place-items:center;transition:.3s}
+.tnav button:hover{background:var(--gold);color:#241505;border-color:var(--gold)}
+/* ============ GALLERY ============ */
+.gal{columns:3;gap:18px;margin-top:56px}
+.gal figure{break-inside:avoid;margin-bottom:18px;border-radius:16px;overflow:hidden;position:relative;cursor:zoom-in;border:1px solid rgba(255,255,255,.06)}
+.gal img{width:100%;transition:transform 1.2s var(--ease),filter .6s}
+.gal figure:hover img{transform:scale(1.06)}
+.gal figcaption{position:absolute;inset:auto 0 0 0;padding:40px 18px 14px;background:linear-gradient(transparent,rgba(10,7,4,.85));font:italic 500 .95rem var(--serif);color:var(--sand);opacity:0;transform:translateY(10px);transition:.5s var(--ease)}
+.gal figure:hover figcaption{opacity:1;transform:none}
+/* ============ ROUTE MAP ============ */
+#route{background:var(--night)}
+#route .rgrid{display:grid;grid-template-columns:1.25fr .75fr;gap:clamp(30px,4vw,60px);margin-top:50px;align-items:start}
+#rmap{width:100%;height:auto;border:1px solid rgba(216,169,91,.18);border-radius:20px;background:radial-gradient(90% 90% at 60% 30%,#101527,#0a0d15 70%)}
+#rmap .road{stroke:rgba(216,169,91,.85);stroke-width:2.4;fill:none;stroke-dasharray:1;stroke-dashoffset:1;transition:stroke-dashoffset 3s var(--ease) .3s}
+#rmap .offroad{stroke:rgba(216,169,91,.5);stroke-width:2;stroke-dasharray:.012 .012;fill:none}
+#route.in .road{stroke-dashoffset:0}
+#rmap .contour{stroke:rgba(120,140,190,.14);fill:none;stroke-width:1}
+#rmap .wp{cursor:pointer}
+#rmap .wp circle.ring{fill:#0a0d15;stroke:var(--gold);stroke-width:1.4;transition:.3s}
+#rmap .wp circle.core{fill:var(--gold);transition:.3s}
+#rmap .wp text{fill:#8b93a8;font:500 12px var(--sans);letter-spacing:.08em;transition:.3s}
+#rmap .wp:hover circle.ring,#rmap .wp.on circle.ring{stroke-width:2.4;filter:drop-shadow(0 0 6px rgba(216,169,91,.8))}
+#rmap .wp.on circle.core{fill:#fff}
+#rmap .wp.on text{fill:var(--cream)}
+#rmap .base circle.ring{stroke:#8fd0a4}
+#rmap .base circle.core{fill:#8fd0a4}
+#rmap .base text{fill:#8fd0a4}
+#rmap .pulse{fill:none;stroke:#8fd0a4;animation:wp-pulse 2.4s ease-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes wp-pulse{from{opacity:.9;transform:scale(1)}to{opacity:0;transform:scale(2.6)}}
+.rpanel{background:rgba(13,17,30,.6);backdrop-filter:blur(14px);border:1px solid rgba(216,169,91,.2);border-radius:20px;padding:30px;position:sticky;top:calc(var(--nav-h) + 26px)}
+.rpanel h3{font:400 1.8rem var(--disp);color:var(--cream)}
+.rpanel .rtag{font:600 10px var(--sans);letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+.rpanel p{color:#9aa2b5;font-size:.94rem;margin-top:12px}
+.rpanel .rstats{display:flex;gap:22px;margin-top:20px;border-top:1px solid rgba(216,169,91,.16);padding-top:18px}
+.rpanel .rstats b{font:400 1.3rem var(--disp);color:var(--gold);display:block}
+.rpanel .rstats span{font:500 10px var(--sans);letter-spacing:.22em;text-transform:uppercase;color:#77809a}
+/* ============ TIMELINE ============ */
+#day{background:var(--bg2)}
+.tl{position:relative;margin-top:64px;padding-left:34px}
+.tl::before{content:"";position:absolute;left:8px;top:0;bottom:0;width:1px;background:var(--line)}
+.tl .fill{position:absolute;left:8px;top:0;width:1px;height:0;background:linear-gradient(var(--gold),var(--ember));transition:height 2.4s var(--ease)}
+#day.in .fill{height:100%}
+.tl li{position:relative;padding:0 0 42px 26px}
+.tl li::before{content:"";position:absolute;left:-30px;top:6px;width:11px;height:11px;border-radius:50%;background:var(--bg2);border:2px solid var(--gold);box-shadow:0 0 0 4px rgba(216,169,91,.12)}
+.tl time{font:400 1.15rem var(--disp);color:var(--gold);letter-spacing:.14em}
+.tl h3{font:400 1.4rem var(--disp);color:var(--cream);margin:4px 0 6px;letter-spacing:.05em}
+.tl p{color:var(--muted);max-width:60ch;font-size:.95rem}
+/* ============ STATS ============ */
+#stats{background:linear-gradient(120deg,#1d1409,#2a1c0c 55%,#1d1409);border-block:1px solid var(--line)}
+#stats .sgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:20px;text-align:center}
+#stats b{font:400 clamp(2.4rem,4.6vw,4rem)/1 var(--disp);color:var(--gold);display:block}
+#stats b sup{font-size:.45em;color:var(--ember)}
+#stats span{font:500 10.5px var(--sans);letter-spacing:.3em;text-transform:uppercase;color:var(--muted);display:block;margin-top:10px}
+/* ============ BEST TIME ============ */
+#best-time .months{display:flex;flex-wrap:wrap;gap:10px;margin-top:46px}
+#best-time .mo{border:1px solid var(--line-d);border-radius:999px;padding:12px 20px;font:600 12px var(--sans);letter-spacing:.16em;color:var(--ink-m);transition:.3s;position:relative}
+#best-time .mo.best::after{content:"";position:absolute;top:-3px;right:-2px;width:8px;height:8px;border-radius:50%;background:var(--gold2)}
+#best-time .mo:hover{border-color:var(--gold2);color:var(--ink)}
+#best-time .mo.on{background:var(--ink);color:var(--cream);border-color:var(--ink)}
+#best-time .bpanel{margin-top:36px;background:#fff8ea;border:1px solid var(--line-d);border-radius:22px;padding:clamp(26px,4vw,46px);display:grid;grid-template-columns:auto 1fr;gap:clamp(24px,4vw,60px);align-items:center;box-shadow:0 30px 70px rgba(60,40,10,.12)}
+#best-time .btemp{font:400 clamp(3rem,6vw,5rem)/1 var(--disp);color:var(--gold2)}
+#best-time .btemp small{font:italic 500 1rem var(--serif);color:var(--ink-m);display:block;margin-top:8px}
+#best-time .bpanel h3{font:400 1.7rem var(--disp)}
+#best-time .bpanel p{color:var(--ink-m);margin-top:10px;max-width:60ch}
+#best-time .bideal{margin-top:14px;font:600 11px var(--sans);letter-spacing:.22em;text-transform:uppercase;color:var(--gold2)}
+#best-time .bpanel.fade{animation:bfade .5s var(--ease)}
+@keyframes bfade{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+/* ============ PACKING ============ */
+#packing .ptabs{display:flex;gap:10px;flex-wrap:wrap;margin-top:46px}
+#packing .ptab{border:1px solid var(--line);border-radius:999px;padding:12px 24px;font:600 11px var(--sans);letter-spacing:.22em;text-transform:uppercase;color:var(--muted);transition:.3s}
+#packing .ptab.on{background:var(--gold);color:#241505;border-color:var(--gold)}
+#packing .plist{margin-top:34px;display:grid;grid-template-columns:1fr 1fr;gap:12px 40px}
+#packing .plist li{display:flex;gap:14px;align-items:center;padding:14px 6px;border-bottom:1px solid var(--line);color:var(--muted);cursor:pointer;transition:.3s}
+#packing .plist li .cb{width:20px;height:20px;border-radius:6px;border:1px solid var(--line);display:grid;place-items:center;flex:none;transition:.3s}
+#packing .plist li .cb svg{width:12px;height:12px;stroke:#241505;stroke-width:3;opacity:0;transition:.2s}
+#packing .plist li.done{color:var(--cream)}
+#packing .plist li.done .cb{background:var(--gold);border-color:var(--gold)}
+#packing .plist li.done .cb svg{opacity:1}
+#packing .plist.swap{animation:bfade .5s var(--ease)}
+/* ============ TIPS ============ */
+#tips .tgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:56px}
+.tipcard{background:#fbf4e4;border:1px solid var(--line-d);border-radius:18px;padding:30px;transition:transform .45s var(--ease),box-shadow .45s}
+.tipcard:hover{transform:translateY(-8px);box-shadow:0 26px 60px rgba(60,40,10,.16)}
+.tipcard .ic{width:46px;height:46px;border-radius:14px;background:var(--ink);display:grid;place-items:center;margin-bottom:18px}
+.tipcard .ic svg{width:20px;height:20px;stroke:var(--gold)}
+.tipcard h3{font:400 1.3rem var(--disp);margin-bottom:8px}
+.tipcard p{color:var(--ink-m);font-size:.93rem}
+/* ============ FAQ ============ */
+#faq .flist{margin-top:50px;border-top:1px solid var(--line)}
+.fitem{border-bottom:1px solid var(--line)}
+.fitem button{width:100%;display:flex;justify-content:space-between;align-items:center;gap:20px;padding:26px 6px;text-align:left;color:var(--cream);font:400 1.25rem var(--disp);letter-spacing:.04em;transition:color .3s}
+.fitem button:hover{color:var(--gold)}
+.fitem .fi{width:34px;height:34px;flex:none;border:1px solid var(--line);border-radius:50%;display:grid;place-items:center;transition:.4s var(--ease)}
+.fitem .fi svg{width:14px;height:14px;stroke:var(--gold);transition:.4s var(--ease)}
+.fitem.open .fi{background:var(--gold);border-color:var(--gold)}
+.fitem.open .fi svg{transform:rotate(45deg);stroke:#241505}
+.fitem .fa{display:grid;grid-template-rows:0fr;transition:grid-template-rows .55s var(--ease)}
+.fitem.open .fa{grid-template-rows:1fr}
+.fitem .fa>div{overflow:hidden}
+.fitem .fa p{color:var(--muted);padding:0 6px 28px;max-width:75ch}
+/* ============ TESTIMONIALS ============ */
+#testimonials{background:var(--cream);color:var(--ink);overflow:hidden}
+#testimonials .qmark{position:absolute;top:30px;left:4vw;font:400 22rem/1 var(--disp);color:rgba(185,132,54,.12);pointer-events:none}
+.tslider{margin-top:40px;overflow:hidden}
+.ttrack{display:flex;transition:transform .8s var(--ease)}
+.tslide{flex:0 0 100%;padding:10px 4px}
+.tslide blockquote{font:italic 500 clamp(1.3rem,2.6vw,1.9rem)/1.55 var(--serif);color:var(--ink);max-width:900px}
+.tslide .who{display:flex;align-items:center;gap:16px;margin-top:30px}
+.tslide .av{width:54px;height:54px;border-radius:50%;background:linear-gradient(135deg,var(--gold2),var(--ember));color:#fff;display:grid;place-items:center;font:600 15px var(--sans);letter-spacing:.06em}
+.tslide .who b{font:600 13px var(--sans);letter-spacing:.14em;text-transform:uppercase}
+.tslide .who span{display:block;color:var(--ink-m);font:italic 500 .95rem var(--serif)}
+.tctrl{display:flex;align-items:center;gap:20px;margin-top:40px}
+.tctrl button.arr{width:52px;height:52px;border-radius:50%;border:1px solid var(--line-d);display:grid;place-items:center;color:var(--ink);transition:.3s}
+.tctrl button.arr:hover{background:var(--ink);color:var(--gold);border-color:var(--ink)}
+.tdots{display:flex;gap:8px}
+.tdots button{width:26px;height:3px;border-radius:3px;background:var(--line-d);transition:.3s}
+.tdots button.on{background:var(--gold2);width:44px}
+/* ============ BOOKING ============ */
+#book .bgrid{display:grid;grid-template-columns:1.15fr .85fr;gap:26px;margin-top:56px}
+#bform{background:rgba(22,15,8,.6);backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:24px;padding:clamp(28px,4vw,48px);position:relative;overflow:hidden}
+#bform .frow{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.field{margin-bottom:18px}
+.field label{display:block;font:600 10.5px var(--sans);letter-spacing:.26em;text-transform:uppercase;color:var(--sand);margin-bottom:9px}
+.field input,.field select,.field textarea{width:100%;background:rgba(10,7,4,.5);border:1px solid var(--line);border-radius:12px;padding:15px 18px;color:var(--cream);font:300 15px var(--sans);transition:border-color .3s,box-shadow .3s;color-scheme:dark}
+.field input:focus,.field select:focus,.field textarea:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(216,169,91,.15)}
+.field.err input,.field.err select{border-color:#d05a3a;box-shadow:0 0 0 3px rgba(208,90,58,.15)}
+.field .fmsg{display:none;color:#e08a70;font-size:12px;margin-top:7px}
+.field.err .fmsg{display:block}
+#bsubmit{width:100%;justify-content:center}
+#bsubmit .spin{display:none;width:16px;height:16px;border:2px solid rgba(36,21,5,.3);border-top-color:#241505;border-radius:50%;animation:sp 1s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+#bsubmit.loading .spin{display:block}
+#bsubmit.loading .lbl{opacity:.6}
+#bsuccess{display:none;text-align:center;padding:40px 10px}
+#bsuccess.show{display:block;animation:bfade .6s var(--ease)}
+#bsuccess .ck{width:96px;height:96px;margin:0 auto 26px}
+#bsuccess .ck circle{stroke:var(--gold);stroke-width:1.6;fill:none;stroke-dasharray:302;stroke-dashoffset:302;animation:draw 1s var(--ease) forwards}
+#bsuccess .ck path{stroke:var(--gold);stroke-width:3;fill:none;stroke-linecap:round;stroke-dasharray:80;stroke-dashoffset:80;animation:draw .7s var(--ease) .7s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+#bsuccess h3{font:400 2rem var(--disp);color:var(--cream)}
+#bsuccess p{color:var(--muted);margin:12px auto 28px;max-width:46ch}
+#bsuccess .sbtns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.bside{display:flex;flex-direction:column;gap:18px}
+.bcard{background:rgba(22,15,8,.6);backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:20px;padding:28px}
+.bcard h4{font:400 1.3rem var(--disp);color:var(--cream);margin-bottom:14px}
+.bcard .crow{display:flex;gap:14px;align-items:center;padding:11px 0;border-bottom:1px solid rgba(216,169,91,.12);color:var(--muted);font-size:.94rem}
+.bcard .crow:last-child{border:none}
+.bcard .crow svg{width:18px;height:18px;stroke:var(--gold);flex:none}
+.bcard .crow a:hover{color:var(--gold)}
+.bcard .promise{font:italic 500 1.02rem/1.6 var(--serif);color:var(--sand)}
+/* ============ FOOTER ============ */
+footer{background:#080502;border-top:1px solid var(--line);position:relative;overflow:hidden}
+.fword{font:400 clamp(4rem,14vw,13rem)/1 var(--disp);letter-spacing:.1em;text-align:center;color:transparent;-webkit-text-stroke:1px rgba(216,169,91,.16);padding:70px 0 10px;user-select:none}
+.fgrid{display:grid;grid-template-columns:1.3fr .7fr .7fr 1fr;gap:40px;padding:50px 0 60px}
+.fgrid h5{font:600 11px var(--sans);letter-spacing:.3em;text-transform:uppercase;color:var(--gold);margin-bottom:20px}
+.fgrid a{display:block;color:var(--muted);padding:5px 0;font-size:.93rem;transition:.3s}
+.fgrid a:hover{color:var(--gold);padding-left:6px}
+.fgrid p{color:var(--muted);font-size:.93rem;max-width:36ch}
+#nlform{display:flex;gap:10px;margin-top:18px}
+#nlform input{flex:1;background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:999px;padding:13px 20px;color:var(--cream);font:300 14px var(--sans)}
+#nlform input:focus{outline:none;border-color:var(--gold)}
+#nlform button{border-radius:999px;background:var(--gold);color:#241505;padding:0 22px;font:600 11px var(--sans);letter-spacing:.2em;text-transform:uppercase;transition:.3s}
+#nlform button:hover{background:var(--cream)}
+.fbase{border-top:1px solid rgba(216,169,91,.12);padding:26px 0;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;color:#6d6250;font-size:12px;letter-spacing:.1em}
+/* ============ MODAL / LIGHTBOX / TOAST / TOP ============ */
+#modal{position:fixed;inset:0;z-index:250;display:grid;place-items:center;padding:4vh 4vw}
+#modal[hidden]{display:none}
+.mback{position:absolute;inset:0;background:rgba(6,4,2,.8);backdrop-filter:blur(10px);opacity:0;transition:.4s}
+.mpanel{position:relative;width:min(980px,100%);max-height:90vh;overflow:auto;background:linear-gradient(170deg,#1d150c,#120c06);border:1px solid var(--line);border-radius:26px;display:grid;grid-template-columns:.9fr 1.1fr;opacity:0;transform:translateY(40px) scale(.97);transition:.55s var(--ease);scrollbar-width:thin}
+#modal.open .mback{opacity:1}
+#modal.open .mpanel{opacity:1;transform:none}
+.mmedia{position:relative;min-height:340px}
+.mmedia img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.mbody{padding:clamp(26px,3.4vw,44px)}
+.mkind{font:600 10px var(--sans);letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+.mbody h3{font:400 clamp(1.7rem,3vw,2.4rem)/1.1 var(--disp);color:var(--cream);margin:10px 0 16px}
+.mmeta{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px}
+.mmeta span{border:1px solid var(--line);border-radius:999px;padding:8px 14px;font:500 10.5px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--sand)}
+.mbody .mlong{color:var(--muted);font-size:.96rem}
+.mbody h4{font:600 11px var(--sans);letter-spacing:.28em;text-transform:uppercase;color:var(--gold);margin:24px 0 12px}
+.mbody .mli li{position:relative;padding:7px 0 7px 26px;color:var(--muted);font-size:.93rem;border-bottom:1px solid rgba(216,169,91,.1)}
+.mbody .mli li::before{content:"◆";position:absolute;left:2px;top:9px;font-size:8px;color:var(--gold)}
+.mitin li{display:flex;gap:14px;padding:8px 0;border-bottom:1px solid rgba(216,169,91,.1);color:var(--muted);font-size:.93rem}
+.mitin b{color:var(--gold);font:400 1rem var(--disp);letter-spacing:.1em;flex:none;width:64px}
+.mcta{display:flex;align-items:center;gap:20px;margin-top:28px;flex-wrap:wrap}
+.mprice{font:400 1.4rem var(--disp);color:var(--gold)}
+.mx{position:sticky;top:14px;margin-left:auto;margin-right:14px;z-index:5;width:46px;height:46px;border-radius:50%;background:rgba(14,10,7,.7);backdrop-filter:blur(8px);border:1px solid var(--line);color:var(--cream);display:grid;place-items:center;transition:.3s}
+.mx:hover{background:var(--gold);color:#241505}
+.mclosewrap{position:absolute;top:0;right:0;padding:14px;z-index:6}
+#lightbox{position:fixed;inset:0;z-index:260;background:rgba(5,3,1,.94);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:5vh 5vw}
+#lightbox[hidden]{display:none}
+#lbImg{max-width:100%;max-height:78vh;border-radius:14px;box-shadow:0 40px 100px rgba(0,0,0,.7);animation:bfade .4s var(--ease)}
+#lbCap{font:italic 500 1.05rem var(--serif);color:var(--sand)}
+#lbCount{font:500 11px var(--sans);letter-spacing:.3em;color:var(--muted)}
+.lb-btn{position:absolute;top:50%;transform:translateY(-50%);width:56px;height:56px;border-radius:50%;border:1px solid var(--line);color:var(--gold);display:grid;place-items:center;background:rgba(14,10,7,.5);transition:.3s}
+.lb-btn:hover{background:var(--gold);color:#241505}
+#lbPrev{left:3vw}#lbNext{right:3vw}
+#lbClose{top:3vh;right:3vw;transform:none;position:absolute}
+#toasts{position:fixed;bottom:26px;left:50%;transform:translateX(-50%);z-index:280;display:flex;flex-direction:column;gap:10px;align-items:center}
+.toast{background:rgba(20,14,8,.9);backdrop-filter:blur(14px);border:1px solid var(--line);color:var(--sand);border-radius:999px;padding:13px 26px;font:500 13px var(--sans);letter-spacing:.06em;animation:bfade .5s var(--ease);box-shadow:0 20px 50px rgba(0,0,0,.5)}
+#totop{position:fixed;right:26px;bottom:26px;z-index:180;width:54px;height:54px;border-radius:50%;background:rgba(20,14,8,.8);backdrop-filter:blur(10px);border:1px solid var(--line);color:var(--gold);display:grid;place-items:center;opacity:0;transform:translateY(20px);transition:.4s var(--ease);pointer-events:none}
+#totop.show{opacity:1;transform:none;pointer-events:auto}
+#totop:hover{background:var(--gold);color:#241505}
+/* ============ RESPONSIVE ============ */
+@media(max-width:1080px){
+ .nlinks{display:none}#burger{display:flex}
+ #about .agrid,#why .wgrid,#lake-iriki .igrid,#anti-atlas .agrid2,#oasis .ogrid,#nomad .ngrid,#camp .cgrid,#route .rgrid,#book .bgrid{grid-template-columns:1fr}
+ #about .sticky{position:static}
+ .acollage{min-height:520px}
+ #experiences .egrid{grid-template-columns:1fr 1fr}
+ #tips .tgrid{grid-template-columns:1fr 1fr}
+ #stats .sgrid{grid-template-columns:repeat(3,1fr);row-gap:44px}
+ .gal{columns:2}
+ .fgrid{grid-template-columns:1fr 1fr}
+ .mpanel{grid-template-columns:1fr;max-height:88vh}
+ .mmedia{min-height:260px}
+ #best-time .bpanel{grid-template-columns:1fr}
+}
+@media(max-width:680px){
+ #experiences .egrid{grid-template-columns:1fr}
+ #tips .tgrid{grid-template-columns:1fr}
+ #stats .sgrid{grid-template-columns:1fr 1fr}
+ .gal{columns:1}
+ #bform .frow{grid-template-columns:1fr}
+ #packing .plist{grid-template-columns:1fr}
+ .fgrid{grid-template-columns:1fr}
+ .hside{display:none}
+ #camp .amen{grid-template-columns:1fr}
+}
+/* ============ REDUCED MOTION ============ */
+@media(prefers-reduced-motion:reduce){
+ html{scroll-behavior:auto}
+ *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+ [data-rv]{opacity:1;transform:none;clip-path:none}
+ .hero-title .ch{transform:none}
+ .hsub,.hcta{opacity:1;transform:none}
+ #sand,#glow{display:none}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<!-- LOADER -->
+<div id="loader" aria-hidden="true">
+  <div class="lw">FOUM ZGUID<em>trip · sahara · morocco</em></div>
+  <div class="lbar"><i></i></div>
+  <div class="lpc">ENTERING THE DUNES</div>
+</div>
+
+<div id="glow" aria-hidden="true"></div>
+<canvas id="sand" aria-hidden="true"></canvas>
+<div id="progress" aria-hidden="true"></div>
+
+<!-- NAV -->
+<header id="nav">
+  <div class="nwrap">
+    <a class="brand" href="#top" aria-label="Foum Zguid Trip — home">
+      <svg viewBox="0 0 64 64" fill="none" aria-hidden="true"><circle cx="32" cy="32" r="30" stroke="#d8a95b" stroke-width="1.5"/><path d="M10 42c8-10 16-14 22-14s14 4 22 14" stroke="#d8a95b" stroke-width="2.4" stroke-linecap="round"/><circle cx="44" cy="20" r="4.5" fill="#d8a95b"/></svg>
+      <span class="bt">FOUM ZGUID<small>T R I P</small></span>
+    </a>
+    <nav class="nlinks" aria-label="Primary">
+      <a href="#about" data-spy="about">Story</a>
+      <a href="#erg-chegaga" data-spy="erg-chegaga">Destinations</a>
+      <a href="#camp" data-spy="camp">The Camp</a>
+      <a href="#experiences" data-spy="experiences">Experiences</a>
+      <a href="#tours" data-spy="tours">Journeys</a>
+      <a href="#gallery" data-spy="gallery">Gallery</a>
+      <a href="#faq" data-spy="faq">FAQ</a>
+    </nav>
+    <a class="btn btn-primary" href="#book">Reserve <span class="ar">→</span></a>
+    <button id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="mmenu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<!-- MOBILE MENU -->
+<nav id="mmenu" aria-label="Mobile">
+  <a href="#about">The Story</a>
+  <a href="#erg-chegaga">Destinations</a>
+  <a href="#camp">The Camp</a>
+  <a href="#experiences">Experiences</a>
+  <a href="#tours">Journeys</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#route">The Route</a>
+  <a href="#book">Reserve</a>
+  <div class="mfoot">Foum Zguid · Tata Province · Morocco<br>hello@foumzguidtrip.com · +212 661 234 567</div>
+</nav>
+
+<main id="main">
+<!-- ============ HERO ============ -->
+<section id="top" aria-label="Foum Zguid Trip — Luxury Sahara Experiences">
+  <div class="himg"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/17267312b-3c83-47c5-ae18-8594d68eda28.png" alt="Camel caravan crossing golden Erg Chegaga dunes at sunset, Morocco" fetchpriority="high"></div>
+  <div class="hshade" aria-hidden="true"></div>
+  <div class="rays" aria-hidden="true"></div>
+  <div class="hcontent">
+    <p class="hmeta"><span>Luxury Sahara Experiences</span><span class="dot"></span><span>Morocco</span><span class="dot"></span><span>Est. 2012</span></p>
+    <h1 class="hero-title" aria-label="Foum Zguid">
+      <span class="line"><span data-split>Foum</span></span>
+      <span class="line"><span data-split>Zguid</span></span>
+    </h1>
+    <p class="hsub">Where the Sahara learns to whisper. Private dune expeditions, starlit camps and ancient silence — crafted at the edge of the world's most beautiful emptiness.</p>
+    <div class="hcta">
+      <a class="btn btn-primary" href="#book">Begin Your Journey <span class="ar">→</span></a>
+      <a class="btn btn-ghost" href="#experiences">Explore Experiences</a>
+    </div>
+  </div>
+  <div class="hside" aria-hidden="true"><span class="scr" data-scramble data-text="29°36′ N — 8°50′ W">29°36′ N — 8°50′ W</span><span>·</span><span>ERG CHEGAGA GATEWAY</span></div>
+  <div class="hscroll" aria-hidden="true"><span>Descend</span><i></i></div>
+</section>
+
+<!-- MARQUEE -->
+<div class="marquee" aria-hidden="true">
+  <div class="mq-track">
+    <span>Erg Chegaga <i>◆</i></span><span>Lake Iriki <i>◆</i></span><span>Anti-Atlas <i>◆</i></span><span>Nomad Hospitality <i>◆</i></span><span>Bortle-1 Skies <i>◆</i></span><span>Oasis Roads <i>◆</i></span><span>Starlit Camps <i>◆</i></span>
+    <span>Erg Chegaga <i>◆</i></span><span>Lake Iriki <i>◆</i></span><span>Anti-Atlas <i>◆</i></span><span>Nomad Hospitality <i>◆</i></span><span>Bortle-1 Skies <i>◆</i></span><span>Oasis Roads <i>◆</i></span><span>Starlit Camps <i>◆</i></span>
+  </div>
+</div>
+
+<!-- ============ ABOUT ============ -->
+<section id="about" class="sec">
+  <div class="wrap agrid">
+    <div class="sticky">
+      <p class="eyebrow" data-rv>01 · The Story</p>
+      <h2 class="sec-title" data-rv>A village at the<br>mouth of the wind</h2>
+      <p class="body dropcap" data-rv>Foum Zguid does not announce itself. It appears the way all true things do — gradually, then all at once. A fold in the Anti-Atlas, a line of palms, walls the colour of the evening. For centuries this was the last pause before the great emptiness: caravans watered their camels here, salted their goods, and stepped into the sand sea beyond.</p>
+      <p class="body" data-rv class="dly1"><strong>We were born here.</strong> Our guides are sons of these ksours, grandchildren of nomads who read the dunes like scripture. What we offer is not a tour. It is an introduction — to the silence that heals, to tea poured three glasses deep, to a sky that still remembers every star.</p>
+      <p class="body" data-rv>Twelve years, thousands of guests, one unchanged promise: <strong>the desert, privately, beautifully, responsibly.</strong></p>
+      <ul class="achips" data-rv>
+        <li>Tata Province</li><li>Drâa-Tafilalet</li><li>Amazigh Heritage</li><li>Small Groups Only</li><li>Leave-No-Trace</li>
+      </ul>
+    </div>
+    <div class="acollage" data-rv="right">
+      <figure class="ph ph1"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1b09f8229-c7e3-4f82-8bd1-56f4fa044093.png" alt="Earthen kasbah houses and date palms of Foum Zguid village at golden hour" loading="lazy"></figure>
+      <figure class="ph ph2"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1169dedd1-c6e5-4bdc-8690-ed87030faad0.png" alt="Wind-carved dune curves near Foum Zguid" loading="lazy"></figure>
+      <div class="quote">"The desert is not empty. It is full of answers."<b>— Nomad proverb</b></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ WHY ============ -->
+<section id="why" class="sec light">
+  <div class="wrap wgrid">
+    <div>
+      <p class="eyebrow" data-rv>02 · Why Foum Zguid</p>
+      <h2 class="sec-title" data-rv>The Sahara's<br>best-kept secret</h2>
+      <p class="sec-sub" data-rv>While crowds gather elsewhere, the southern erg stays wild, private and unhurried. This is the Morocco discerning travellers whisper about.</p>
+    </div>
+    <div class="wlist" data-rv>
+      <div class="witem"><span class="wnum">01</span><div><h3>The Untouched Erg</h3><p>Erg Chegaga's dunes rise over 100 metres and stretch 40 km — reached only by 4x4 or camel, never by bus, never crowded.</p></div></div>
+      <div class="witem"><span class="wnum">02</span><div><h3>True Dark Skies</h3><p>Rated among Morocco's darkest horizons. The Milky Way casts shadows here; meteors are an ordinary Tuesday.</p></div></div>
+      <div class="witem"><span class="wnum">03</span><div><h3>Living Nomad Culture</h3><p>Tea with herding families, bread baked in sand ovens, songs older than borders — shared, never staged.</p></div></div>
+      <div class="witem"><span class="wnum">04</span><div><h3>Crafted Privacy</h3><p>Maximum six guests per caravan. Your dune crest will have no other footprints but yours.</p></div></div>
+      <div class="witem"><span class="wnum">05</span><div><h3>Five-Star Simplicity</h3><p>Plush beds under canvas, private baths, a chef from the oasis — luxury measured in silence, not marble.</p></div></div>
+      <div class="witem"><span class="wnum">06</span><div><h3>Conscientious Travel</h3><p>Solar-lit camps, local guides, camel welfare charters. Every dirham stays in the valley.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<div class="dunes" style="background:var(--cream);color:var(--bg)" aria-hidden="true">
+  <svg viewBox="0 0 1440 140" preserveAspectRatio="none">
+    <path class="db" fill="currentColor" d="M0,96 C260,66 520,116 780,88 C1040,60 1240,104 1440,84 L1440,140 L0,140 Z"/>
+    <path fill="currentColor" d="M0,80 C240,110 480,50 720,74 C960,98 1200,58 1440,80 L1440,140 L0,140 Z">
+      <animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0,80 C240,110 480,50 720,74 C960,98 1200,58 1440,80 L1440,140 L0,140 Z;M0,70 C240,44 480,104 720,78 C960,52 1200,96 1440,64 L1440,140 L0,140 Z;M0,80 C240,110 480,50 720,74 C960,98 1200,58 1440,80 L1440,140 L0,140 Z"/>
+    </path>
+  </svg>
+</div>
+
+<!-- ============ ERG CHEGAGA ============ -->
+<section id="erg-chegaga" class="panel">
+  <div class="pimg"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/141d962cc-7140-4c0e-aba2-c3f2805949bc.png" alt="Wind-carved ridgeline of the Erg Chegaga dunes dividing light and shadow" loading="lazy" data-px="0.12"></div>
+  <div class="pshade" aria-hidden="true"></div>
+  <div class="pcontent">
+    <p class="eyebrow" data-rv>03 · The Great Sand Sea</p>
+    <h2 data-rv>Erg Chegaga</h2>
+    <p class="bigq" data-rv>Forty kilometres of golden architecture, rebuilt nightly by the wind. Stand on the high crest at dusk and hear the only sound left: your own heartbeat, keeping time with the sand.</p>
+    <ul class="pfacts" data-rv>
+      <li><b>100m+</b><span>Dune crests</span></li>
+      <li><b>40km</b><span>Of wild erg</span></li>
+      <li><b>0</b><span>Roads inside</span></li>
+      <li><b>∞</b><span>Horizons</span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ LAKE IRIKI ============ -->
+<section id="lake-iriki" class="sec">
+  <div class="wrap igrid">
+    <figure class="frame" data-rv="left"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/189a0c121-3a4e-4602-a90f-c87202965df4.png" alt="Mirage shimmering over the cracked earth of Lake Iriki with a nomad and camel" loading="lazy"></figure>
+    <div>
+      <p class="eyebrow" data-rv>04 · The Mirage Plain</p>
+      <h2 class="sec-title" data-rv>Lake Iriki</h2>
+      <p class="mirage" data-rv>A lake that vanished — and never quite left.</p>
+      <p class="body" data-rv>Once a true lake, Iriki is now a vast white plain where mirages pool on the horizon like water that refuses to be forgotten. Flamingos still return in rare wet years, and nomads cross its cracked mosaic with the ease of sailors on a calm sea.</p>
+      <p class="body" data-rv>We drive it at golden hour, when the earth turns to porcelain and the sky performs. It is the finest natural stage in Morocco — and you will have the front row to yourself.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ANTI ATLAS ============ -->
+<section id="anti-atlas" class="sec">
+  <div class="wrap agrid2">
+    <div>
+      <p class="eyebrow" data-rv>05 · The Ancient Bones</p>
+      <h2 class="sec-title" data-rv>Anti-Atlas<br>Mountains</h2>
+      <p class="body" data-rv>Older than the Alps, folded when the planet was young, the Anti-Atlas guards the road south in ochre and rust. Every bend is a gallery: fossil beds, volcanic necks, villages stacked like swallow nests.</p>
+      <p class="body" data-rv>The drive from Agdz to Foum Zguid is, in our biased opinion, the most beautiful empty road in North Africa. We stop often. You will want to.</p>
+      <ul class="tags" data-rv><li>Tizi n'Tichka alt. routes</li><li>Fossil beds</li><li>Kasbah valleys</li><li>Photographer's road</li></ul>
+    </div>
+    <figure class="tilt" data-rv="right"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/119baf062-68a8-4d81-9668-ecf1c55b51e7.png" alt="Winding road through ochre Anti-Atlas cliffs at evening light" loading="lazy"></figure>
+  </div>
+</section>
+
+<!-- ============ OASIS ============ -->
+<section id="oasis" class="sec">
+  <div class="wrap ogrid">
+    <figure class="round" data-rv="scale"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1b04ffae3-b583-42fe-9ba7-a02242514425.png" alt="Green date palm oasis with earthen house against Saharan dunes" loading="lazy"></figure>
+    <div>
+      <p class="eyebrow" data-rv>06 · The Green Thread</p>
+      <h2 class="sec-title" data-rv>Oasis Life</h2>
+      <p class="body" data-rv>Where water surfaces, everything celebrates. Palms lean over mud walls, children race through irrigation channels, and the air smells of mint and wet earth. The oasis is the desert's love letter to itself.</p>
+      <p class="body" data-rv>Walk the palmerie with a local farmer. Learn why a date palm is planted, married and buried like family. Taste fruit picked an arm's length from your hand.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ NOMAD ============ -->
+<section id="nomad" class="sec">
+  <div class="wrap ngrid">
+    <figure class="nimg" data-rv="left"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/162a5aa2d-1f01-4784-aa50-16e6299de657.png" alt="Berber nomad in indigo turban pouring mint tea beside a campfire at dusk" loading="lazy"></figure>
+    <div>
+      <p class="eyebrow" data-rv>07 · The Keepers of Silence</p>
+      <h2 class="sec-title" data-rv>Nomad Culture</h2>
+      <p class="body" data-rv>The nomads of the south never conquered the desert — they agreed with it. Their tents face the wind wisely; their hospitality is law. The first glass is bitter as life, the second strong as love, the third gentle as death. You will drink all three.</p>
+      <p class="nquote" data-rv>"A guest is a gift of God. Even the enemy, once he enters the tent, is family until the sand covers his tracks."<b style="display:block;margin-top:10px;font:600 10px var(--sans);letter-spacing:.3em;color:var(--ember)">— SAHARAN HOSPITALITY CODE</b></p>
+    </div>
+  </div>
+</section>
+
+<div class="dunes" style="background:var(--emberbg);color:var(--cream)" aria-hidden="true">
+  <svg viewBox="0 0 1440 140" preserveAspectRatio="none">
+    <path class="db" fill="currentColor" d="M0,96 C260,66 520,116 780,88 C1040,60 1240,104 1440,84 L1440,140 L0,140 Z"/>
+    <path fill="currentColor" d="M0,80 C240,110 480,50 720,74 C960,98 1200,58 1440,80 L1440,140 L0,140 Z"/>
+  </svg>
+</div>
+
+<!-- ============ CAMP ============ -->
+<section id="camp" class="sec light">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>08 · The Camp</p>
+    <h2 class="sec-title" data-rv>A palace woven from canvas</h2>
+    <p class="sec-sub" data-rv>Deep in the erg, far beyond the last track, our private camp appears like a dream the dunes are having: lantern-lit, silent, impossibly comfortable.</p>
+    <div class="cgrid">
+      <figure class="cmain" data-rv="left">
+        <img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1b4723713-ece7-4ada-8f84-e450693a99b7.png" alt="Luxury desert camp tents glowing at blue hour among Erg Chegaga dunes" loading="lazy">
+        <div class="cglass">
+          <div><b>8</b><span>Private suites</span></div>
+          <div><b>Solar</b><span>Soft lighting</span></div>
+          <div><b>Hot</b><span>Eco showers</span></div>
+          <div><b>Chef</b><span>Oasis kitchen</span></div>
+        </div>
+      </figure>
+      <div class="cside" data-rv="right">
+        <figure class="cimg"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1ee8ea3fb-7812-44d2-ae09-ef5e716867ff.png" alt="Plush bed, Berber blankets and lantern inside a luxury Sahara tent suite" loading="lazy"></figure>
+        <figure class="cimg"><img src="https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1698b353c-86b0-4d8e-add9-2d5ec38a8dbb.png" alt="Tagine, bread and mint tea served on a brass table at the desert camp" loading="lazy"></figure>
+      </div>
+    </div>
+    <ul class="amen" data-rv>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M3 18c3-6 6-9 9-9s6 3 9 9M12 9V3M9 5l3-2 3 2"/></svg>King beds & hand-woven Berber textiles</li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 3c4 5 6 8 6 11a6 6 0 0 1-12 0c0-3 2-6 6-11z"/></svg>Private bathrooms, hot eco-showers</li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9L17 7M7 17l-2.1 2.1"/></svg>Solar lanterns, candle-lit paths</li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M4 19h16M6 19V9l6-5 6 5v10M10 19v-6h4v6"/></svg>Dining & fireside majlis tents</li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 21s-7-4.6-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 11c0 5.4-7 10-7 10z"/></svg>Camel-welfare certified caravans</li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M3 12h4l2-7 4 14 2-7h6"/></svg>Satellite phone & first-aid trained guides</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ EXPERIENCES ============ -->
+<section id="experiences" class="sec">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>09 · Experiences</p>
+    <h2 class="sec-title" data-rv>Six ways to lose<br>track of time</h2>
+    <p class="sec-sub" data-rv>Each ritual is private, guided by nomad hands, and paced to let the desert do its quiet work.</p>
+    <div class="egrid" id="expGrid"></div>
+  </div>
+</section>
+
+<!-- ============ TOURS ============ -->
+<section id="tours" class="sec">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>10 · Private Tours & Journeys</p>
+    <h2 class="sec-title" data-rv>From a daybreak<br>to a full immersion</h2>
+    <p class="sec-sub" data-rv>Every journey is private by default and tailored in conversation — never a fixed script.</p>
+  </div>
+  <div class="wrap">
+    <div class="tscroll" id="tourScroll" tabindex="0" aria-label="Tour cards, scroll horizontally"></div>
+    <div class="tnav">
+      <button id="tPrev" aria-label="Previous tours"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+      <button id="tNext" aria-label="Next tours"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GALLERY ============ -->
+<section id="gallery" class="sec" style="padding-top:0">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>11 · Gallery</p>
+    <h2 class="sec-title" data-rv>Light, sand & memory</h2>
+    <div class="gal" id="galGrid" data-rv></div>
+  </div>
+</section>
+
+<!-- ============ ROUTE MAP ============ -->
+<section id="route" class="sec">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>12 · The Route</p>
+    <h2 class="sec-title" data-rv>From the red city<br>to the golden sea</h2>
+    <p class="sec-sub" data-rv>Trace the classic southern road. Select any waypoint to read its story.</p>
+    <div class="rgrid">
+      <svg id="rmap" viewBox="0 0 1000 560" role="img" aria-label="Stylized route map from Marrakech to Erg Chegaga">
+        <path class="contour" d="M60,470 C220,430 380,500 560,460 C740,420 860,480 960,450"/>
+        <path class="contour" d="M40,510 C240,470 420,540 620,500 C800,465 900,520 980,495"/>
+        <path class="contour" d="M620,90 C720,60 840,110 950,80"/>
+        <path class="road" pathLength="1" d="M180,120 C240,150 260,170 280,190 C310,220 320,230 340,240 C360,252 380,255 400,260 C440,272 470,285 500,300 C525,315 545,340 560,360 C580,385 610,400 640,410"/>
+        <path class="offroad" d="M640,410 C690,430 730,455 760,470"/>
+        <path class="offroad" d="M640,410 C700,405 770,395 820,380"/>
+        <g class="wp" data-wp="marrakech" tabindex="0" role="button" aria-label="Marrakech waypoint"><circle class="ring" cx="180" cy="120" r="9"/><circle class="core" cx="180" cy="120" r="3.4"/><text x="160" y="100">Marrakech</text></g>
+        <g class="wp" data-wp="tichka" tabindex="0" role="button" aria-label="Tizi n'Tichka pass waypoint"><circle class="ring" cx="280" cy="190" r="9"/><circle class="core" cx="280" cy="190" r="3.4"/><text x="300" y="182">Tizi n'Tichka</text></g>
+        <g class="wp" data-wp="aitben" tabindex="0" role="button" aria-label="Ait Ben Haddou waypoint"><circle class="ring" cx="340" cy="240" r="9"/><circle class="core" cx="340" cy="240" r="3.4"/><text x="240" y="266">Aït Ben Haddou</text></g>
+        <g class="wp" data-wp="ouarzazate" tabindex="0" role="button" aria-label="Ouarzazate waypoint"><circle class="ring" cx="400" cy="260" r="9"/><circle class="core" cx="400" cy="260" r="3.4"/><text x="418" y="250">Ouarzazate</text></g>
+        <g class="wp" data-wp="agdz" tabindex="0" role="button" aria-label="Agdz and Draa Valley waypoint"><circle class="ring" cx="500" cy="300" r="9"/><circle class="core" cx="500" cy="300" r="3.4"/><text x="516" y="292">Agdz · Draa</text></g>
+        <g class="wp" data-wp="zagora" tabindex="0" role="button" aria-label="Zagora waypoint"><circle class="ring" cx="560" cy="360" r="9"/><circle class="core" cx="560" cy="360" r="3.4"/><text x="480" y="392">Zagora</text></g>
+        <g class="wp base on" data-wp="foumzguid" tabindex="0" role="button" aria-label="Foum Zguid base camp waypoint"><circle class="pulse" cx="640" cy="410" r="10"/><circle class="ring" cx="640" cy="410" r="10"/><circle class="core" cx="640" cy="410" r="4"/><text x="600" y="440">Foum Zguid · Base</text></g>
+        <g class="wp" data-wp="chegaga" tabindex="0" role="button" aria-label="Erg Chegaga waypoint"><circle class="ring" cx="760" cy="470" r="9"/><circle class="core" cx="760" cy="470" r="3.4"/><text x="700" y="500">Erg Chegaga</text></g>
+        <g class="wp" data-wp="iriki" tabindex="0" role="button" aria-label="Lake Iriki waypoint"><circle class="ring" cx="820" cy="380" r="9"/><circle class="core" cx="820" cy="380" r="3.4"/><text x="838" y="372">Lake Iriki</text></g>
+        <g transform="translate(920,70)" aria-hidden="true"><circle r="26" fill="none" stroke="rgba(216,169,91,.4)"/><path d="M0,-18 L5,6 L0,2 L-5,6 Z" fill="#d8a95b"/><text y="44" text-anchor="middle" fill="#77809a" font-size="10" letter-spacing="2">N</text></g>
+      </svg>
+      <aside class="rpanel" aria-live="polite">
+        <span class="rtag" id="rpTag">Base Camp</span>
+        <h3 id="rpName">Foum Zguid</h3>
+        <p id="rpDesc">Our home and your gateway: a quiet Amazigh town of palms and ochre walls, 90 minutes from the Draa Valley and one hour from the first dunes.</p>
+        <div class="rstats">
+          <div><b id="rpKm">0 km</b><span>From base</span></div>
+          <div><b id="rpDrive">—</b><span>Drive time</span></div>
+          <div><b id="rpAlt">770 m</b><span>Altitude</span></div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TIMELINE ============ -->
+<section id="day" class="sec">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>13 · A Day In The Dunes</p>
+    <h2 class="sec-title" data-rv>Twenty-four hours,<br>perfectly unhurried</h2>
+    <ol class="tl">
+      <div class="fill" aria-hidden="true"></div>
+      <li data-rv><time>05:10</time><h3>Coffee in the dark</h3><p>Lanterns, wool blankets, the first birdsong of the erg. Camels arrive breathing softly out of the stars.</p></li>
+      <li data-rv><time>05:40</time><h3>Dawn caravan</h3><p>The caravan climbs while the sky rehearses its colours. You ride; the desert does the rest.</p></li>
+      <li data-rv><time>08:30</time><h3>Breakfast on the crest</h3><p>Msemen, honey, oranges and mint tea as the sun gilds forty kilometres of dune.</p></li>
+      <li data-rv><time>11:00</time><h3>Iriki crossing</h3><p>4x4 across the mirage plain — heat shimmer, cracked porcelain earth, flamingo memories.</p></li>
+      <li data-rv><time>13:30</time><h3>Shade of the acacias</h3><p>A slow lunch under thorn trees, nomad bread baked in the sand an arm's length away.</p></li>
+      <li data-rv><time>16:30</time><h3>The golden hours</h3><p>Sandboarding for the brave, napping for the wise, photography for everyone.</p></li>
+      <li data-rv><time>18:50</time><h3>Sunset ritual</h3><p>Silence is served on the high dune. No words needed; none found.</p></li>
+      <li data-rv><time>20:30</time><h3>Fireside table</h3><p>Tagine, stories, gnawa rhythms on the bendir. The fire edits the conversation.</p></li>
+      <li data-rv><time>22:00</time><h3>Guided starwalk</h3><p>Telescopes out, lasers off. Saturn's rings, meteor trains, the Milky Way casting your shadow on sand.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- ============ STATS ============ -->
+<section id="stats" class="sec" style="padding:clamp(60px,7vw,90px) 0">
+  <div class="wrap sgrid">
+    <div data-rv><b><span data-count="12">0</span><sup>+</sup></b><span>Years of craft</span></div>
+    <div data-rv class="dly1"><b><span data-count="4800">0</span></b><span>Guests guided</span></div>
+    <div data-rv class="dly2"><b><span data-count="38">0</span></b><span>Guides & camels</span></div>
+    <div data-rv class="dly3"><b><span data-count="120">0</span><sup>m</sup></b><span>Highest crest</span></div>
+    <div data-rv class="dly4"><b><span data-count="4.9" data-dec="1">0</span><sup>★</sup></b><span>Guest rating</span></div>
+  </div>
+</section>
+
+<!-- ============ BEST TIME ============ -->
+<section id="best-time" class="sec light">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>14 · Plan</p>
+    <h2 class="sec-title" data-rv>When the desert<br>is at its kindest</h2>
+    <p class="sec-sub" data-rv>Gold-dotted months are our sweet season. Select any month to see its character.</p>
+    <div class="months" id="monthRow" data-rv role="group" aria-label="Choose a month"></div>
+    <div class="bpanel" id="bpanel" data-rv>
+      <div class="btemp"><span id="bpTemp">27° / 14°</span><small id="bpCrowd">Serene · golden season</small></div>
+      <div><h3 id="bpTitle">October</h3><p id="bpNote">The dunes exhale after summer. Warm days, cool velvet nights and the first great stargazing windows of the year.</p><p class="bideal" id="bpIdeal">Ideal for · Stargazing · Camel trekking</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PACKING ============ -->
+<section id="packing" class="sec">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>15 · Packing Guide</p>
+    <h2 class="sec-title" data-rv>Pack light,<br>feel heavy with wonder</h2>
+    <div class="ptabs" id="packTabs" data-rv role="tablist" aria-label="Packing categories"></div>
+    <ul class="plist" id="packList" data-rv></ul>
+  </div>
+</section>
+
+<!-- ============ TIPS ============ -->
+<section id="tips" class="sec light">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>16 · Travel Tips</p>
+    <h2 class="sec-title" data-rv>Small wisdoms<br>for the great sand</h2>
+    <div class="tgrid">
+      <article class="tipcard" data-rv><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 3v18M7 8h10M5 21h14M8 3h8"/></svg></div><h3>Cash is king</h3><p>Carry dirhams for souks and crafts. ATMs exist in Foum Zguid; the dunes, gloriously, do not.</p></article>
+      <article class="tipcard" data-rv class="dly1"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 3l3 5 5 1-4 4 1 6-5-3-5 3 1-6-4-4 5-1z"/></svg></div><h3>Dress in layers</h3><p>Linen by day, wool by night. A cheche scarf is sunscreen, pillow, windbreak and souvenir at once.</p></article>
+      <article class="tipcard" data-rv class="dly2"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M2 12h4l3-8 4 16 3-8h6"/></svg></div><h3>Signal fades — by design</h3><p>Coverage ends where the noise does. We carry satellite phones; your inbox carries nothing at all.</p></article>
+      <article class="tipcard" data-rv><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></div><h3>Water & sun</h3><p>Four litres a day, a hat with a brim, and reverence for the noon hour. The desert rewards the prepared.</p></article>
+      <article class="tipcard" data-rv class="dly1"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><rect x="3" y="7" width="18" height="13" rx="2"/><circle cx="12" cy="13" r="4"/><path d="M8 7l2-3h4l2 3"/></svg></div><h3>Ask before you shoot</h3><p>Portraits begin with a smile and a question. Your guide will translate; the tea that follows needs no language.</p></article>
+      <article class="tipcard" data-rv class="dly2"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 21s-7-4.6-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 11c0 5.4-7 10-7 10z"/></svg></div><h3>Tip with grace</h3><p>Guides and camp teams are artists of your joy. 10–15% is customary and deeply appreciated.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section id="faq" class="sec">
+  <div class="wrap" style="max-width:900px">
+    <p class="eyebrow" data-rv>17 · Questions</p>
+    <h2 class="sec-title" data-rv>Asked beneath<br>every new sky</h2>
+    <div class="flist" data-rv>
+      <div class="fitem"><button aria-expanded="false">How do I reach Foum Zguid?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>Fly into Marrakech or Ouarzazate. From there it's a spectacular 5–6 hour drive through the Anti-Atlas — or let us arrange a private transfer with stops at Aït Ben Haddou and the Draa palm groves. The road is paved, safe and astonishing.</p></div></div></div>
+      <div class="fitem"><button aria-expanded="false">When is the best time to visit?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>October to April: warm 20–28°C days and crisp star-filled nights. Summer is for the bold — dramatic light, empty dunes, early starts and long siestas.</p></div></div></div>
+      <div class="fitem"><button aria-expanded="false">What is the camp really like?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>Think boutique hotel, minus the walls. King beds with real linens, private bathrooms with hot eco-showers, solar lanterns, a chef from the oasis, and a silence no five-star lobby has ever achieved.</p></div></div></div>
+      <div class="fitem"><button aria-expanded="false">Is it suitable for children?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>Joyfully. From age six, children ride camels, board dunes, bake bread in sand ovens and meet Saturn through the telescope. Family tents sleep four.</p></div></div></div>
+      <div class="fitem"><button aria-expanded="false">Can you cater dietary needs?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>Vegetarian, vegan, gluten-free, allergies — our chef adapts every menu with notice. Oasis vegetables and dates feature beautifully either way.</p></div></div></div>
+      <div class="fitem"><button aria-expanded="false">Is the Sahara safe?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>Morocco is among the calmest destinations in Africa, and our region is its quietest corner. Guides are first-aid certified, vehicles carry satellite phones, and camels are inspected like royalty.</p></div></div></div>
+      <div class="fitem"><button aria-expanded="false">What is your cancellation policy?<span class="fi"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg></span></button><div class="fa"><div><p>Full refund up to 14 days before arrival; 50% up to 7 days; dates can always be moved once, free of charge. The desert understands changed plans.</p></div></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TESTIMONIALS ============ -->
+<section id="testimonials" class="sec">
+  <div class="qmark" aria-hidden="true">"</div>
+  <div class="wrap">
+    <p class="eyebrow" data-rv>18 · Voices</p>
+    <h2 class="sec-title" data-rv>What guests carry home</h2>
+    <div class="tslider" data-rv>
+      <div class="ttrack" id="tTrack"></div>
+    </div>
+    <div class="tctrl" data-rv>
+      <button class="arr" id="tsPrev" aria-label="Previous testimonial"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+      <button class="arr" id="tsNext" aria-label="Next testimonial"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      <div class="tdots" id="tDots" role="tablist" aria-label="Testimonials"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ BOOKING ============ -->
+<section id="book" class="sec">
+  <div class="wrap">
+    <p class="eyebrow" data-rv>19 · Reserve</p>
+    <h2 class="sec-title" data-rv>Your dune is waiting</h2>
+    <p class="sec-sub" data-rv>Tell us your dates and dreams — a human (not a robot) replies within 24 hours, usually with too many suggestions.</p>
+    <div class="bgrid">
+      <form id="bform" novalidate data-rv="left">
+        <div id="bfields">
+          <div class="frow">
+            <div class="field" id="f-name"><label for="inName">Full name *</label><input id="inName" type="text" autocomplete="name" placeholder="Amelia Hartley"><p class="fmsg">Please tell us your name.</p></div>
+            <div class="field" id="f-email"><label for="inEmail">Email *</label><input id="inEmail" type="email" autocomplete="email" placeholder="you@horizon.com"><p class="fmsg">A valid email is required.</p></div>
+          </div>
+          <div class="frow">
+            <div class="field"><label for="inWa">WhatsApp number</label><input id="inWa" type="tel" autocomplete="tel" placeholder="+44 7700 900000"></div>
+            <div class="field" id="f-date"><label for="inDate">Arrival date *</label><input id="inDate" type="date"><p class="fmsg">Choose a date from today onward.</p></div>
+          </div>
+          <div class="frow">
+            <div class="field"><label for="inGuests">Guests</label><select id="inGuests"><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7+</option></select></div>
+            <div class="field"><label for="inExp">Experience</label><select id="inExp"></select></div>
+          </div>
+          <div class="field"><label for="inMsg">Your dream, in a line</label><textarea id="inMsg" rows="4" placeholder="Anniversary under the Milky Way, slow pace, too many photographs…"></textarea></div>
+          <button class="btn btn-primary" id="bsubmit" type="submit"><span class="spin" aria-hidden="true"></span><span class="lbl">Request Reservation</span> <span class="ar">→</span></button>
+        </div>
+        <div id="bsuccess" role="status">
+          <svg class="ck" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48"/><path d="M30 52 L44 66 L72 38"/></svg>
+          <h3>Request received</h3>
+          <p id="sSummary">The dunes have been notified. Continue the conversation on your preferred channel:</p>
+          <div class="sbtns">
+            <a class="btn btn-primary" id="waLink" href="#" target="_blank" rel="noopener">Continue on WhatsApp</a>
+            <a class="btn btn-ghost" id="mailLink" href="#">Send by Email</a>
+          </div>
+          <p style="margin-top:22px"><button type="button" id="bAgain" class="btn-disc">Make another request <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button></p>
+        </div>
+      </form>
+      <aside class="bside" data-rv="right">
+        <div class="bcard">
+          <h4>Speak with a human</h4>
+          <div class="crow"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M22 16.9v3a2 2 0 0 1-2.2 2A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.13.96.36 1.9.7 2.8a2 2 0 0 1-.45 2.1L8.1 9.9a16 16 0 0 0 6 6l1.3-1.25a2 2 0 0 1 2.1-.45c.9.34 1.84.57 2.8.7a2 2 0 0 1 1.7 2z"/></svg><a href="tel:+212661234567">+212 661 234 567</a></div>
+          <div class="crow"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M21 11.5a8.4 8.4 0 0 1-9 8.4 8.6 8.6 0 0 1-3.8-.9L3 20l1-5.1a8.4 8.4 0 1 1 17-3.4z"/></svg><a href="https://wa.me/212661234567" target="_blank" rel="noopener">WhatsApp us directly</a></div>
+          <div class="crow"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><rect x="2" y="4" width="20" height="16" rx="3"/><path d="m2 7 10 7L22 7"/></svg><a href="mailto:hello@foumzguidtrip.com">hello@foumzguidtrip.com</a></div>
+          <div class="crow"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 21s-7-4.6-7-10a7 7 0 0 1 14 0c0 5.4-7 10-7 10z"/><circle cx="12" cy="11" r="2.6"/></svg><span>Ave. Mohammed V, Foum Zguid, Tata, Morocco</span></div>
+        </div>
+        <div class="bcard"><p class="promise">"We answer every message the way we pour tea — promptly, warmly, and with full attention."<b style="display:block;margin-top:10px;font:600 10px var(--sans);letter-spacing:.3em;color:var(--gold);text-transform:uppercase">— Hassan, Founder</b></p></div>
+        <div class="bcard"><h4>Good to know</h4><p style="color:var(--muted);font-size:.9rem">No payment is taken online. We confirm availability first, then arrange a secure deposit. Private journeys only — never shared with strangers.</p></div>
+      </aside>
+    </div>
+  </div>
+</section>
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer id="contact">
+  <div class="fword" aria-hidden="true">FOUM ZGUID</div>
+  <div class="wrap fgrid">
+    <div>
+      <h5>Foum Zguid Trip</h5>
+      <p>Luxury Sahara experiences crafted by sons of the south. Private, unhurried, unforgettable — from the first lantern to the last star.</p>
+      <form id="nlform" novalidate>
+        <label class="skip" for="nlEmail">Email for newsletter</label>
+        <input id="nlEmail" type="email" placeholder="Join the circle of the dunes" required>
+        <button type="submit">Join</button>
+      </form>
+    </div>
+    <div>
+      <h5>Explore</h5>
+      <a href="#about">The Story</a><a href="#erg-chegaga">Erg Chegaga</a><a href="#lake-iriki">Lake Iriki</a><a href="#anti-atlas">Anti-Atlas</a><a href="#oasis">Oasis</a><a href="#nomad">Nomad Culture</a>
+    </div>
+    <div>
+      <h5>Journeys</h5>
+      <a href="#experiences">Experiences</a><a href="#tours">Private Tours</a><a href="#camp">The Camp</a><a href="#route">The Route</a><a href="#best-time">Best Time</a><a href="#faq">FAQ</a>
+    </div>
+    <div>
+      <h5>Contact</h5>
+      <a href="tel:+212661234567">+212 661 234 567</a>
+      <a href="mailto:hello@foumzguidtrip.com">hello@foumzguidtrip.com</a>
+      <a href="https://wa.me/212661234567" target="_blank" rel="noopener">WhatsApp</a>
+      <a href="#book">Reserve a journey</a>
+    </div>
+  </div>
+  <div class="wrap fbase">
+    <span>© <span id="yr">2025</span> Foum Zguid Trip · Luxury Sahara Experiences, Morocco</span>
+    <span>Crafted under Saharan skies · 29°36′N 8°50′W</span>
+  </div>
+</footer>
+
+<!-- MODAL -->
+<div id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="mTitle">
+  <div class="mback" data-close></div>
+  <div class="mpanel">
+    <div class="mclosewrap"><button class="mx" data-close aria-label="Close details"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="mmedia"><img id="mImg" alt="" loading="lazy"></div>
+    <div class="mbody">
+      <span class="mkind" id="mKind"></span>
+      <h3 id="mTitle"></h3>
+      <div class="mmeta" id="mMeta"></div>
+      <p class="mlong" id="mLong"></p>
+      <div id="mItinWrap"><h4>Itinerary</h4><ul class="mitin" id="mItin"></ul></div>
+      <h4>Highlights</h4><ul class="mli" id="mHi"></ul>
+      <h4>What's included</h4><ul class="mli" id="mInc"></ul>
+      <div class="mcta"><button class="btn btn-primary" id="mBook">Reserve This Journey <span class="ar">→</span></button><span class="mprice" id="mPrice"></span></div>
+    </div>
+  </div>
+</div>
+
+<!-- LIGHTBOX -->
+<div id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Image lightbox">
+  <button class="lb-btn" id="lbClose" aria-label="Close lightbox"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  <button class="lb-btn" id="lbPrev" aria-label="Previous image"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></button>
+  <img id="lbImg" alt="">
+  <button class="lb-btn" id="lbNext" aria-label="Next image"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+  <p id="lbCap"></p><span id="lbCount"></span>
+</div>
+
+<div id="toasts" aria-live="polite"></div>
+<button id="totop" aria-label="Back to top"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"/></svg></button>
+
+<script>
+(function(){
+'use strict';
+var $=function(s,c){return (c||document).querySelector(s)};
+var $$=function(s,c){return Array.prototype.slice.call((c||document).querySelectorAll(s))};
+var RM=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* ---------- DATA ---------- */
+var IMG={
+hero:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/17267312b-3c83-47c5-ae18-8594d68eda28.png',
+town:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1b09f8229-c7e3-4f82-8bd1-56f4fa044093.png',
+erg:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/141d962cc-7140-4c0e-aba2-c3f2805949bc.png',
+iriki:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/189a0c121-3a4e-4602-a90f-c87202965df4.png',
+atlas:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/119baf062-68a8-4d81-9668-ecf1c55b51e7.png',
+oasis:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1b04ffae3-b583-42fe-9ba7-a02242514425.png',
+nomad:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/162a5aa2d-1f01-4784-aa50-16e6299de657.png',
+campExt:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1b4723713-ece7-4ada-8f84-e450693a99b7.png',
+campInt:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1ee8ea3fb-7812-44d2-ae09-ef5e716867ff.png',
+camel:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1d7914875-c2ec-4214-9cb2-b89a5b173708.png',
+fx4:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/12c6fc1fe-c30e-4d3d-8cfd-b57dd13986f1.png',
+board:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/15b5f5669-9fc5-4166-89d2-b1104c744888.png',
+stars:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/18a6090ff-4fe3-4bdc-9589-f66ca5c79c2b.png',
+food:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1698b353c-86b0-4d8e-add9-2d5ec38a8dbb.png',
+photo:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1c9fa813f-dc81-4860-bc50-d9dadd3285e7.png',
+aerial:'https://image.qwenlm.ai/public_source/59e3c0a3-0889-46ea-884f-ad206b7115d9/1169dedd1-c6e5-4bdc-8690-ed87030faad0.png'
+};
+var EXP=[
+{id:'camel',kind:'Signature Ritual',title:'Camel Caravan at Dawn',img:IMG.camel,dur:'3 hrs · sunrise',diff:'Gentle',season:'Oct – Apr',price:'From €95 pp',
+short:'Ride the old trade lines as the dunes catch first light.',
+long:'Before the camp wakes, your caravan slips between the dunes in silence. The camels set a rhythm older than any road while the horizon turns from indigo to ember. At the high crest you dismount for mint tea as the sun lifts over Erg Chegaga — the moment our guests call the quiet centre of their journey.',
+hi:['Private caravan of 2–6 camels','Sunrise tea ceremony on the high crest','Nomad guide sharing caravan stories','Return ride or guided dune walk','Woollen blankets & hand-warmers in winter'],
+inc:['Camp or village pickup','Camel, saddles & guide','Mint tea and oasis dates','Cheche scarf — yours to keep','Unlimited photography stops']},
+{id:'fx4',kind:'Adrenaline',title:'4x4 Dune Odyssey',img:IMG.fx4,dur:'Half day',diff:'Moderate',season:'Year-round',price:'From €120 pp',
+short:'Read the erg like a sailor reads the sea — at speed.',
+long:'Our drivers were raised on these dunes and treat them like a home garden. Crest, dip, drift: the Land Cruiser swims where ordinary vehicles sink. Between the thrills you stop for fossils, nomad tea and the strange blue silence that follows adrenaline.',
+hi:['Professional Saharan drivers','Dune-driving on 100m crests','Fossil & desert-rose stops','Nomad tea with herding families','Panoramic roof hatches'],
+inc:['Private 4x4 with driver','Fuel & park permits','Bottled water & cool towels','Sand ladders & recovery gear','First-aid certified guide']},
+{id:'board',kind:'Play',title:'Sandboarding the Great Faces',img:IMG.board,dur:'2 hrs · golden hour',diff:'Energetic',season:'Oct – May',price:'From €65 pp',
+short:'The erg is the oldest wave pool on Earth. Paddle out.',
+long:'A dune face is a frozen wave, and at golden hour it breaks in slow motion — you. Boards, wax and coaching are provided; laughter is inevitable. Finish on the crest as the sun drops, sand in your shoes and a grin you will wear home.',
+hi:['Boards, wax & coaching provided','Steep faces chosen daily by wind','Golden-hour light for photos','Races & tandem runs','Dune-side mint tea after'],
+inc:['Sandboard & boots hire','Guide-coach','Knee & elbow protection','Water and snacks','Camp transfer']},
+{id:'stars',kind:'Night Ritual',title:'Night Sky Ritual',img:IMG.stars,dur:'2.5 hrs · after dark',diff:'Gentle',season:'New moons · Oct – Apr',price:'From €85 pp',
+short:'Bortle-1 darkness. The Milky Way casts your shadow on sand.',
+long:'Far beyond the last bulb of civilisation, the southern sky performs nightly. A guided starwalk traces Berber constellations; telescopes reveal Saturn's rings and newborn stars. Reclining cushions, blankets and hot mint chocolate included. Meteors are not guaranteed. They happen anyway.',
+hi:['Bortle-1 certified darkness','Telescopes & red-light guidance','Berber constellation storytelling','Reclining cushions & wool blankets','Hot mint chocolate & sfouf'],
+inc:['Astronomy guide','Telescope session','Blankets & cushions','Warm drinks','Astro-photo assistance']},
+{id:'food',kind:'Table',title:'The Fireside Table',img:IMG.food,dur:'Evening · 3 hrs',diff:'Gentle',season:'Year-round',price:'From €75 pp',
+short:'Tagine, bread from the sand, tea poured from a height.',
+long:'Cooking in the Sahara is an act of patience: tagines sealed at noon, bread buried in hot sand, tea poured from a silver arc. Join our chef, knead, taste, and learn why the third glass is gentle as death. A feast by lantern light, finished with gnawa rhythms on the bendir.',
+hi:['Hands-on tagine & bread workshop','Sand-oven baking demonstration','Three-glass tea ceremony','Live gnawa rhythm session','Lantern-lit feast under stars'],
+inc:['All ingredients','Chef host','Full dinner & tea','Vegetarian adaptations','Recipe cards to take home']},
+{id:'photo',kind:'Craft',title:'Light & Dune Photo Safari',img:IMG.photo,dur:'Blue hour · 4 hrs',diff:'All levels',season:'Oct – Apr',price:'From €140 pp',
+short:'Chase the two minutes of light photographers cross oceans for.',
+long:'We position you on the right crest at the right minute — because in the erg, light is geography. A working photographer guides composition, long exposures and night skies, while a 4x4 leapfrogs you between compositions. Tripods and filters available to borrow.',
+hi:['Professional photographer guide','Crest positions timed to light','Long-exposure & astro coaching','Tripod & filter lending','Edited portfolio review online'],
+inc:['4x4 transfers','Guide-photographer','Equipment lending','Hot drinks at blue hour','Online follow-up session']}
+];
+var TOURS=[
+{id:'daybreak',kind:'Private Day',title:'The Chgaga Daybreak',img:IMG.hero,dur:'10 hrs',diff:'Gentle',season:'Oct – Apr',price:'From €180 pp',
+short:'One perfect day: dawn caravan, mirage plain, kasbah lunch, sunset crest.',
+long:'Our signature day distils the Sahara into ten unhurried hours. Ride at dawn, cross Iriki at noon, eat in a kasbah garden, and finish on the high crest as the dunes turn to bronze.',
+itin:[['05:00','Depart Foum Zguid, coffee in the dark'],['05:40','Dawn camel caravan on the erg'],['11:00','4x4 crossing of Lake Iriki'],['13:30','Kasbah garden lunch'],['18:50','Sunset ritual on the high crest']],
+hi:['Dawn caravan & Iriki crossing','Kasbah garden lunch','Sunset on the high crest'],inc:['Private 4x4 & camels','All meals & tea','Guide','Camp or hotel pickup']},
+{id:'mirage',kind:'Private Day',title:'Iriki Mirage Escape',img:IMG.iriki,dur:'6 hrs',diff:'Gentle',season:'Year-round',price:'From €140 pp',
+short:'The porcelain plain at golden hour, with nomad tea on cracked earth.',
+long:'A shorter, meditative loop across the fossil lake. Mirages pool on the horizon, flamingos return in wet years, and tea tastes different when the nearest wall is 60 km away.',
+itin:[['15:00','Depart for the Iriki plain'],['16:30','Golden-hour drive & walk'],['18:00','Nomad tea on the cracked earth'],['19:30','Star-first return drive']],
+hi:['Mirage photography','Nomad tea stop','Flamingo season chances'],inc:['Private 4x4','Tea & pastries','Guide','Binoculars lending']},
+{id:'kasbah',kind:'Private Day',title:'Oasis & Kasbah Trail',img:IMG.oasis,dur:'7 hrs',diff:'Gentle',season:'Year-round',price:'From €150 pp',
+short:'Palms, pottery, and the green thread of the southern valleys.',
+long:'A cultural counterweight to the dunes: walk the palmerie with a farmer, visit a pottery atelier, lunch beneath date palms and hear how oasis law divides water by the stars.',
+itin:[['09:00','Palmerie walk with a farmer'],['11:00','Pottery & weaving atelier'],['13:00','Oasis garden lunch'],['15:30','Ksar & granary visit']],
+hi:['Farmer-led palmerie walk','Artisan ateliers','Oasis garden lunch'],inc:['Private transport','All entries','Lunch','Local guides']},
+{id:'silence',kind:'Multi-Day · 3D/2N',title:'Two Nights of Silence',img:IMG.campExt,dur:'3 days / 2 nights',diff:'Gentle',season:'Oct – Apr',price:'From €520 pp',
+short:'The essential immersion: two nights in the private erg camp.',
+long:'Enough time for the desert to slow your pulse. Dawn caravans, sandboarding, the fireside table and two consecutive nights beneath Bortle-1 stars, in a camp that is yours alone.',
+itin:[['Day 1','Arrival, 4x4 into the erg, sunset crest, fireside table'],['Day 2','Dawn caravan, Iriki crossing, sandboarding, star ritual'],['Day 3','Sunrise walk, return to Foum Zguid']],
+hi:['2 nights private luxury camp','All experiences included','Full-board oasis kitchen'],inc:['All transfers','Camp suite & meals','Guides & camels','Stargazing session']},
+{id:'granderg',kind:'Multi-Day · 4D/3N',title:'The Grand Erg',img:IMG.erg,dur:'4 days / 3 nights',diff:'Moderate',season:'Oct – Apr',price:'From €890 pp',
+short:'Deep erg expedition: wild camps, nomad nights, far horizons.',
+long:'For those who want further. One night in a nomad family camp, two in the luxury camp, a full traverse of the erg's southern faces and an Iriki bivouac under meteor-prone skies.',
+itin:[['Day 1','Foum Zguid → erg, sunset crest'],['Day 2','Erg traverse, nomad family camp'],['Day 3','Iriki bivouac, astro night'],['Day 4','Sunrise walk & return']],
+hi:['Nomad family camp night','Southern erg traverse','Iriki astro bivouac'],inc:['All camps & meals','Guides, camels & 4x4','Sleeping kits','Satellite phone']},
+{id:'immersion',kind:'Multi-Day · 6D/5N',title:'Sahara Immersion',img:IMG.camel,dur:'6 days · Marrakech loop',diff:'Moderate',season:'Oct – Apr',price:'From €1,450 pp',
+short:'The complete southern story: Atlas, Draa, erg and mirage.',
+long:'Marrakech to the mirage and back: Tizi n'Tichka, Aït Ben Haddou, the Draa palm corridor, then three nights of erg and Iriki. Riads hand-picked en route; every night a different sky.',
+itin:[['Day 1','Marrakech → Ouarzazate, riad night'],['Day 2','Draa Valley → Foum Zguid'],['Day 3–5','Erg camp, nomad night, Iriki'],['Day 6','Atlas return to Marrakech']],
+hi:['Curated riads en route','Complete southern loop','3 nights in the erg'],inc:['All transport & riads','All meals in desert','Guides throughout','Experiences bundle']}
+];
+var GAL=[
+[IMG.hero,'Erg Chegaga, last light'],[IMG.erg,'The high crests'],[IMG.iriki,'Lake Iriki mirage'],[IMG.aerial,'Wind calligraphy'],[IMG.camel,'Dawn caravan'],[IMG.nomad,'Tea, three glasses deep'],[IMG.campExt,'Camp at blue hour'],[IMG.stars,'Bortle-1 skies'],[IMG.oasis,'Palmerie of the south'],[IMG.food,'The fireside table'],[IMG.atlas,'Road to the south']
+];
+var MONTHS=[
+{m:'Jan',best:true,t:'19° / 5°',c:'Serene',n:'Crisp air, glass-clear light and empty dunes — the desert at its most contemplative. Nights demand wool; mornings reward early risers.',i:'Camel trekking · photography'},
+{m:'Feb',best:true,t:'22° / 8°',c:'Serene',n:'Almond-blossom weeks in the valleys and reliably golden afternoons on the erg. A connoisseur's month.',i:'Culture · dune walks'},
+{m:'Mar',best:true,t:'25° / 11°',c:'Calm',n:'Spring warmth arrives; the light turns honey-thick and the nights stay perfect for telescopes.',i:'All experiences'},
+{m:'Apr',best:true,t:'28° / 14°',c:'Calm',n:'Long luminous days and gentle evenings — the last month of the sweet season before the heat.',i:'4x4 · sandboarding'},
+{m:'May',best:false,t:'32° / 18°',c:'Quiet',n:'Warm but workable with early starts and long siestas. The camp feels deliciously private.',i:'Sunrise rituals'},
+{m:'Jun',best:false,t:'37° / 22°',c:'Quiet',n:'For the bold: dramatic light, empty erg, cold pools of shade and iced mint tea in quantity.',i:'Photography'},
+{m:'Jul',best:false,t:'40° / 25°',c:'Empty',n:'The deep-summer erg belongs to silence itself. We run shortened dawn-and-dusk programmes.',i:'Contemplative travel'},
+{m:'Aug',best:false,t:'39° / 24°',c:'Empty',n:'Heat mirages perform daily on Iriki. Nights already hint at the coming star season.',i:'Mirage chasing'},
+{m:'Sep',best:false,t:'34° / 20°',c:'Building',n:'The exhale before autumn: warm days, kinder nights, first great astro windows.',i:'Stargazing'},
+{m:'Oct',best:true,t:'27° / 14°',c:'Golden season',n:'The dunes exhale after summer. Warm days, cool velvet nights and the first great stargazing windows of the year.',i:'Stargazing · camel trekking'},
+{m:'Nov',best:true,t:'22° / 9°',c:'Golden season',n:'Peak perfection: sweater mornings, shirt-sleeve afternoons, and skies that embarrass astronomers.',i:'Everything'},
+{m:'Dec',best:true,t:'19° / 6°',c:'Festive calm',n:'Winter light, campfire evenings and New Year beneath the Milky Way — book early, whisper it loudly.',i:'New Year under stars'}
+];
+var PACK={
+'Daylight':['Wide-brim hat & UV sunglasses','SPF 50+ & lip balm','Linen shirts, light layers','Cheche or desert scarf','Closed shoes for hot sand','Refillable water bottle'],
+'After dark':['Fleece or light down jacket','Thermal base layer (winter)','Wool hat & warm socks','Headlamp with red mode','Scarf for campfire smoke','Swimsuit — surprise oasis pools'],
+'Gear':['Camera & wide-angle lens','Tripod for astro shots','Power bank (solar at camp)','Binoculars for mirages','Wet wipes & hand cream','Dry bag for fine sand'],
+'Essentials':['Passport & copies','Cash dirhams for souks','Travel insurance papers','Personal medication','Offline maps & books','Small gifts for hosts (optional)']
+};
+var TESTI=[
+{q:'We have stayed in five-star resorts on four continents. None prepared us for a canvas tent, a bed softer than home, and a sky that made our teenager put her phone away for two days. Two days.',n:'Amelia & Ross H.',w:'London · United Kingdom',ini:'AH'},
+{q:'Hassan's team reads the desert like a poem. They moved our sunset stop twice "because the light deserved better" — and it did. I cried on the high crest and I would do it again.',n:'Sofia L.',w:'Milan · Italy',ini:'SL'},
+{q:'As a photographer I am impossible to please. They timed every crest, every shadow, every meteor. My Erg Chegaga series just won a national award. Thank you, brothers.',n:'Kenji M.',w:'Osaka · Japan',ini:'KM'},
+{q:'Our nomad night — bread in the sand, tea from a silver arc, songs older than borders — is the single best travel memory of our thirty years of marriage.',n:'Claire & Denis V.',w:'Lyon · France',ini:'CV'},
+{q:'Flawless logistics, gentle camels, extraordinary food, and silence so complete I could hear my own heartbeat. We rebooked for next October before we left the camp.',n:'The Okafor Family',w:'Lagos · Nigeria',ini:'OF'}
+];
+var WAY={
+marrakech:{tag:'Day 1 · Start',name:'Marrakech',desc:'The red city: jasmine courtyards, Jemaa el-Fnaa at dusk, and the last espresso before the great southern road.',km:'460 km',drive:'5.5 hrs',alt:'470 m'},
+tichka:{tag:'High Atlas',name:'Tizi n'Tichka',desc:'The 2,260 m pass where the Atlas folds open. Hairpins, juniper smoke and views that empty your camera roll.',km:'380 km',drive:'4.5 hrs',alt:'2,260 m'},
+aitben:{tag:'UNESCO',name:'Aït Ben Haddou',desc:'A ksar stacked like a sandcastle against the sky — film location of gladiators, caravans and a thousand daydreams.',km:'340 km',drive:'4 hrs',alt:'1,300 m'},
+ouarzazate:{tag:'Gateway',name:'Ouarzazate',desc:'The quiet studio-city of the south: kasbah museums, prop workshops and the last big coffee before true quiet.',km:'300 km',drive:'3.5 hrs',alt:'1,160 m'},
+agdz:{tag:'Draa Valley',name:'Agdz · Draa',desc:'Where the palm corridor begins — a million date palms marching beside the Draa river to the horizon.',km:'210 km',drive:'2.5 hrs',alt:'950 m'},
+zagora:{tag:'Last town',name:'Zagora',desc:'"Timbuktu 52 days" reads the old sign. Caravans once vanished south from here; you only vanish for the weekend.',km:'150 km',drive:'2 hrs',alt:'720 m'},
+foumzguid:{tag:'Base Camp',name:'Foum Zguid',desc:'Our home and your gateway: a quiet Amazigh town of palms and ochre walls, 90 minutes from the Draa and one hour from the first dunes.',km:'0 km',drive:'—',alt:'770 m'},
+chegaga:{tag:'The Erg',name:'Erg Chegaga',desc:'Forty kilometres of wild golden architecture. No roads, no walls, no noise — only wind writing and rewriting.',km:'45 km',drive:'1 hr off-road',alt:'600 m'},
+iriki:{tag:'Mirage Plain',name:'Lake Iriki',desc:'The fossil lake: cracked porcelain earth, heat mirages like pooled water, flamingos in rare wet years.',km:'60 km',drive:'1.5 hrs',alt:'590 m'}
+};
+
+/* ---------- HELPERS ---------- */
+function toast(msg){var t=document.createElement('div');t.className='toast';t.textContent=msg;$('#toasts').appendChild(t);setTimeout(function(){t.style.opacity='0';t.style.transition='opacity .5s';setTimeout(function(){t.remove()},500)},3200)}
+var lastFocus=null;
+
+/* ---------- LOADER ---------- */
+function hideLoader(){document.body.classList.add('is-loaded');scrambleAll()}
+window.addEventListener('load',function(){setTimeout(hideLoader,700)});
+setTimeout(hideLoader,3200);
+
+/* ---------- SPLIT TITLE ---------- */
+$$('[data-split]').forEach(function(el){
+  var txt=el.textContent;el.setAttribute('aria-hidden','true');el.textContent='';
+  for(var i=0;i<txt.length;i++){var s=document.createElement('span');s.className='ch';s.style.setProperty('--i',i);s.textContent=txt[i];el.appendChild(s)}
+});
+/* ---------- SCRAMBLE ---------- */
+function scrambleAll(){
+  $$('[data-scramble]').forEach(function(el){
+    var target=el.getAttribute('data-text');if(RM){el.textContent=target;return}
+    var chars='◆·—/\\0123456789NW°′';var frame=0;
+    var iv=setInterval(function(){
+      frame++;var out='';var done=Math.floor(frame/2);
+      for(var i=0;i<target.length;i++){out+= i<done?target[i]:(target[i]===' '?' ':chars[Math.floor(Math.random()*chars.length)])}
+      el.textContent=out;if(done>=target.length){clearInterval(iv);el.textContent=target}
+    },30);
+  });
+}
+
+/* ---------- REVEAL ---------- */
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -6% 0px'});
+$$('[data-rv]').forEach(function(el){io.observe(el)});
+var secIO=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');secIO.unobserve(e.target)}})},{threshold:.25});
+['#route','#day'].forEach(function(s){var el=$(s);if(el)secIO.observe(el)});
+
+/* ---------- COUNTERS ---------- */
+var cio=new IntersectionObserver(function(es){es.forEach(function(e){
+  if(!e.isIntersecting)return;cio.unobserve(e.target);
+  var el=e.target,end=parseFloat(el.getAttribute('data-count')),dec=parseInt(el.getAttribute('data-dec')||'0',10);
+  if(RM){el.textContent=end.toLocaleString('en-US',{minimumFractionDigits:dec});return}
+  var t0=null;function step(ts){if(!t0)t0=ts;var p=Math.min((ts-t0)/1800,1);p=1-Math.pow(1-p,4);el.textContent=(end*p).toLocaleString('en-US',{minimumFractionDigits:dec,maximumFractionDigits:dec});if(p<1)requestAnimationFrame(step)}
+  requestAnimationFrame(step);
+})},{threshold:.6});
+$$('[data-count]').forEach(function(el){cio.observe(el)});
+
+/* ---------- SAND PARTICLES ---------- */
+(function(){
+  if(RM)return;var c=$('#sand'),ctx=c.getContext('2d'),W,H,ps=[],t=0;
+  function rs(){W=c.width=innerWidth;H=c.height=innerHeight}
+  rs();addEventListener('resize',rs);
+  var N=innerWidth<720?34:70;
+  for(var i=0;i<N;i++)ps.push({x:Math.random()*W,y:Math.random()*H,r:.5+Math.random()*1.5,s:.25+Math.random()*.85,o:.06+Math.random()*.26,ph:Math.random()*6.28});
+  function loop(){
+    if(document.hidden){requestAnimationFrame(loop);return}
+    ctx.clearRect(0,0,W,H);t+=.006;
+    for(var i=0;i<ps.length;i++){var p=ps[i];
+      p.x+=p.s*1.1;p.y+=Math.sin(t*2+p.ph)*.35;
+      if(p.x>W+4){p.x=-4;p.y=Math.random()*H}
+      ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,6.283);ctx.fillStyle='rgba(224,183,120,'+p.o+')';ctx.fill();
+    }
+    requestAnimationFrame(loop);
+  }
+  requestAnimationFrame(loop);
+})();
+
+/* ---------- CURSOR GLOW ---------- */
+(function(){
+  if(RM||!matchMedia('(pointer:fine)').matches)return;
+  var g=$('#glow'),x=innerWidth/2,y=innerHeight/2,cx=x,cy=y;
+  addEventListener('mousemove',function(e){x=e.clientX;y=e.clientY});
+  (function loop(){cx+=(x-cx)*.08;cy+=(y-cy)*.08;g.style.left=cx+'px';g.style.top=cy+'px';requestAnimationFrame(loop)})();
+})();
+
+/* ---------- NAV / SCROLL ---------- */
+var nav=$('#nav'),prog=$('#progress'),totop=$('#totop');
+var pxEls=$$('[data-px]');
+var ticking=false;
+function onScroll(){
+  var sy=scrollY;
+  nav.classList.toggle('scrolled',sy>40);
+  totop.classList.toggle('show',sy>700);
+  var h=document.documentElement.scrollHeight-innerHeight;
+  prog.style.width=(h>0?(sy/h)*100:0)+'%';
+  if(!RM){pxEls.forEach(function(el){
+    var r=el.parentElement.getBoundingClientRect();
+    var off=(r.top+r.height/2-innerHeight/2)*parseFloat(el.getAttribute('data-px'));
+    el.style.transform='translate3d(0,'+off.toFixed(1)+'px,0)';
+  })}
+  ticking=false;
+}
+addEventListener('scroll',function(){if(!ticking){requestAnimationFrame(onScroll);ticking=true}},{passive:true});
+onScroll();
+totop.addEventListener('click',function(){scrollTo({top:0,behavior:RM?'auto':'smooth'})});
+
+/* scrollspy */
+var spyLinks=$$('.nlinks a');
+var spy=new IntersectionObserver(function(es){
+  es.forEach(function(e){
+    if(e.isIntersecting){
+      spyLinks.forEach(function(a){a.classList.toggle('active',a.getAttribute('data-spy')===e.target.id)});
+    }
+  });
+},{rootMargin:'-40% 0px -55% 0px'});
+['about','erg-chegaga','camp','experiences','tours','gallery','faq'].forEach(function(id){var el=document.getElementById(id);if(el)spy.observe(el)});
+
+/* mobile menu */
+var burger=$('#burger');
+function setMenu(open){document.body.classList.toggle('menu-open',open);burger.setAttribute('aria-expanded',open);document.body.classList.toggle('locked',open)}
+burger.addEventListener('click',function(){setMenu(!document.body.classList.contains('menu-open'))});
+$$('#mmenu a').forEach(function(a){a.addEventListener('click',function(){setMenu(false)})});
+
+/* ---------- EXPERIENCE CARDS ---------- */
+var icClock='<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>';
+var icGauge='<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><path d="M4 17a8 8 0 0 1 16 0M12 17l4-6"/></svg>';
+var icSun='<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9L17 7M7 17l-2.1 2.1"/></svg>';
+var icArrow='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
+var eg=$('#expGrid');
+EXP.forEach(function(x,i){
+  var d=document.createElement('article');d.className='xcard';d.setAttribute('data-rv','');d.style.transitionDelay=(i%3)*.12+'s';
+  d.innerHTML='<div class="ximg"><img src="'+x.img+'" alt="'+x.title+' — Sahara experience" loading="lazy"><span class="xcat">'+x.kind+'</span></div>'+
+  '<div class="xbody"><h3>'+x.title+'</h3><p class="xshort">'+x.short+'</p>'+
+  '<div class="xmeta"><span>'+icClock+x.dur+'</span><span>'+icGauge+x.diff+'</span><span>'+icSun+x.season+'</span></div>'+
+  '<button class="btn-disc" data-exp="'+x.id+'">Discover '+icArrow+'</button></div>';
+  eg.appendChild(d);io.observe(d);
+});
+
+/* ---------- TOUR CARDS ---------- */
+var ts=$('#tourScroll');
+TOURS.forEach(function(t,i){
+  var d=document.createElement('article');d.className='tcard';
+  d.innerHTML='<div class="timg"><img src="'+t.img+'" alt="'+t.title+' — Sahara journey" loading="lazy"><span class="tkind">'+t.kind+'</span></div>'+
+  '<div class="tbody"><h3>'+t.title+'</h3><div class="tmeta"><span>'+t.dur+'</span><span>'+t.diff+'</span></div>'+
+  '<ul class="troute">'+t.itin.map(function(r){return '<li>'+r[1]+'</li>'}).join('')+'</ul>'+
+  '<div class="tfoot"><span class="price">'+t.price+'</span><button class="btn-disc" data-tour="'+t.id+'">View Journey '+icArrow+'</button></div></div>';
+  ts.appendChild(d);
+});
+$('#tPrev').addEventListener('click',function(){ts.scrollBy({left:-420,behavior:RM?'auto':'smooth'})});
+$('#tNext').addEventListener('click',function(){ts.scrollBy({left:420,behavior:RM?'auto':'smooth'})});
+
+/* ---------- GALLERY ---------- */
+var gg=$('#galGrid');
+GAL.forEach(function(g,i){
+  var f=document.createElement('figure');
+  f.innerHTML='<img src="'+g[0]+'" alt="'+g[1]+'" loading="lazy"><figcaption>'+g[1]+'</figcaption>';
+  f.setAttribute('tabindex','0');f.setAttribute('role','button');f.setAttribute('aria-label','Open image: '+g[1]);
+  f.addEventListener('click',function(){openLB(i)});
+  f.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();openLB(i)}});
+  gg.appendChild(f);
+});
+
+/* ---------- MODAL ---------- */
+var modal=$('#modal'),curId=null;
+function findItem(id){return EXP.filter(function(x){return x.id===id})[0]||TOURS.filter(function(x){return x.id===id})[0]}
+function openModal(id){
+  var x=findItem(id);if(!x)return;curId=id;lastFocus=document.activeElement;
+  $('#mImg').src=x.img;$('#mImg').alt=x.title+' — full details';
+  $('#mKind').textContent=x.kind;$('#mTitle').textContent=x.title;$('#mLong').textContent=x.long;$('#mPrice').textContent=x.price;
+  $('#mMeta').innerHTML='<span>'+x.dur+'</span><span>'+x.diff+'</span><span>'+x.season+'</span>';
+  $('#mHi').innerHTML=x.hi.map(function(h){return '<li>'+h+'</li>'}).join('');
+  $('#mInc').innerHTML=x.inc.map(function(h){return '<li>'+h+'</li>'}).join('');
+  var iw=$('#mItinWrap');
+  if(x.itin){iw.style.display='';$('#mItin').innerHTML=x.itin.map(function(r){return '<li><b>'+r[0]+'</b><span>'+r[1]+'</span></li>'}).join('')}else{iw.style.display='none'}
+  modal.hidden=false;document.body.classList.add('locked');
+  requestAnimationFrame(function(){requestAnimationFrame(function(){modal.classList.add('open')})});
+  $('.mx',modal).focus();
+}
+function closeModal(){
+  modal.classList.remove('open');document.body.classList.remove('locked');
+  setTimeout(function(){modal.hidden=true},RM?0:450);
+  if(lastFocus)lastFocus.focus();
+}
+document.addEventListener('click',function(e){
+  var b=e.target.closest('[data-exp],[data-tour]');
+  if(b){openModal(b.getAttribute('data-exp')||b.getAttribute('data-tour'));return}
+  if(e.target.closest('[data-close]')&&!modal.hidden){closeModal()}
+});
+$('#mBook').addEventListener('click',function(){
+  var id=curId;closeModal();
+  var sel=$('#inExp');if(id){sel.value=id}
+  setTimeout(function(){$('#book').scrollIntoView({behavior:RM?'auto':'smooth'});$('#bform').style.boxShadow='0 0 0 3px rgba(216,169,91,.5)';setTimeout(function(){$('#bform').style.boxShadow=''},1400)},RM?0:300);
+});
+/* focus trap */
+modal.addEventListener('keydown',function(e){
+  if(e.key!=='Tab')return;
+  var f=$$('button,a[href],select,input,textarea',[modal]).filter(function(el){return el.offsetParent!==null});
+  if(!f.length)return;
+  var first=f[0],last=f[f.length-1];
+  if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}
+  else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}
+});
+
+/* ---------- LIGHTBOX ---------- */
+var lb=$('#lightbox'),lbI=0;
+function openLB(i){lbI=i;renderLB();lb.hidden=false;document.body.classList.add('locked');$('#lbClose').focus()}
+function renderLB(){var g=GAL[lbI];var im=$('#lbImg');im.src=g[0];im.alt=g[1];$('#lbCap').textContent=g[1];$('#lbCount').textContent=(lbI+1)+' / '+GAL.length;
+  if(!RM){im.style.animation='none';void im.offsetWidth;im.style.animation=''}}
+function closeLB(){lb.hidden=true;document.body.classList.remove('locked')}
+$('#lbPrev').addEventListener('click',function(){lbI=(lbI-1+GAL.length)%GAL.length;renderLB()});
+$('#lbNext').addEventListener('click',function(){lbI=(lbI+1)%GAL.length;renderLB()});
+$('#lbClose').addEventListener('click',closeLB);
+lb.addEventListener('click',function(e){if(e.target===lb)closeLB()});
+
+/* ---------- ESC ---------- */
+document.addEventListener('keydown',function(e){
+  if(e.key==='Escape'){
+    if(!lb.hidden)closeLB();
+    else if(!modal.hidden)closeModal();
+    else if(document.body.classList.contains('menu-open'))setMenu(false);
+  }
+  if(!lb.hidden){
+    if(e.key==='ArrowLeft')$('#lbPrev').click();
+    if(e.key==='ArrowRight')$('#lbNext').click();
+  }
+});
+
+/* ---------- ROUTE MAP ---------- */
+$$('#rmap .wp').forEach(function(wp){
+  function act(){
+    $$('#rmap .wp').forEach(function(w){w.classList.remove('on')});wp.classList.add('on');
+    var d=WAY[wp.getAttribute('data-wp')];
+    $('#rpTag').textContent=d.tag;$('#rpName').textContent=d.name;$('#rpDesc').textContent=d.desc;
+    $('#rpKm').textContent=d.km;$('#rpDrive').textContent=d.drive;$('#rpAlt').textContent=d.alt;
+  }
+  wp.addEventListener('click',act);
+  wp.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();act()}});
+});
+
+/* ---------- MONTHS ---------- */
+var mr=$('#monthRow');
+MONTHS.forEach(function(m,i){
+  var b=document.createElement('button');b.className='mo'+(m.best?' best':'');b.textContent=m.m;
+  b.setAttribute('aria-label','Show '+m.m);
+  b.addEventListener('click',function(){
+    $$('.mo',mr).forEach(function(x){x.classList.remove('on')});b.classList.add('on');
+    var p=$('#bpanel');p.classList.remove('fade');void p.offsetWidth;p.classList.add('fade');
+    $('#bpTemp').textContent=m.t;$('#bpCrowd').textContent=m.c+(m.best?' · golden season':'');
+    $('#bpTitle').textContent=['January','February','March','April','May','June','July','August','September','October','November','December'][i];
+    $('#bpNote').textContent=m.n;$('#bpIdeal').textContent='Ideal for · '+m.i;
+  });
+  mr.appendChild(b);
+});
+$$('.mo',mr)[9].click();
+
+/* ---------- PACKING ---------- */
+var pt=$('#packTabs'),pl=$('#packList'),pk=Object.keys(PACK);
+pk.forEach(function(k,i){
+  var b=document.createElement('button');b.className='ptab'+(i===0?' on':'');b.textContent=k;b.setAttribute('role','tab');
+  b.addEventListener('click',function(){
+    $$('.ptab',pt).forEach(function(x){x.classList.remove('on')});b.classList.add('on');renderPack(k);
+  });
+  pt.appendChild(b);
+});
+function renderPack(k){
+  pl.classList.remove('swap');void pl.offsetWidth;pl.classList.add('swap');
+  pl.innerHTML=PACK[k].map(function(it){return '<li tabindex="0" role="checkbox" aria-checked="false"><span class="cb"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M4 12l5 5L20 7"/></svg></span>'+it+'</li>'}).join('');
+  $$('li',pl).forEach(function(li){
+    function tog(){li.classList.toggle('done');li.setAttribute('aria-checked',li.classList.contains('done'))}
+    li.addEventListener('click',tog);
+    li.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();tog()}});
+  });
+}
+renderPack(pk[0]);
+
+/* ---------- FAQ ---------- */
+$$('.fitem').forEach(function(f){
+  var btn=$('button',f);
+  btn.addEventListener('click',function(){
+    var open=f.classList.contains('open');
+    $$('.fitem').forEach(function(x){x.classList.remove('open');$('button',x).setAttribute('aria-expanded','false')});
+    if(!open){f.classList.add('open');btn.setAttribute('aria-expanded','true')}
+  });
+});
+
+/* ---------- TESTIMONIALS ---------- */
+var tt=$('#tTrack'),td=$('#tDots'),ti=0,tTimer;
+TESTI.forEach(function(t,i){
+  var s=document.createElement('div');s.className='tslide';
+  s.innerHTML='<blockquote>"'+t.q+'"</blockquote><div class="who"><span class="av">'+t.ini+'</span><div><b>'+t.n+'</b><span>'+t.w+'</span></div></div>';
+  tt.appendChild(s);
+  var d=document.createElement('button');d.setAttribute('aria-label','Testimonial '+(i+1));
+  d.addEventListener('click',function(){goT(i)});td.appendChild(d);
+});
+function goT(i){ti=(i+TESTI.length)%TESTI.length;tt.style.transform='translateX(-'+ti*100+'%)';
+  $$('button',td).forEach(function(d,j){d.classList.toggle('on',j===ti)});resetT()}
+function resetT(){clearInterval(tTimer);if(!RM)tTimer=setInterval(function(){goT(ti+1)},6500)}
+$('#tsPrev').addEventListener('click',function(){goT(ti-1)});
+$('#tsNext').addEventListener('click',function(){goT(ti+1)});
+$('#testimonials').addEventListener('mouseenter',function(){clearInterval(tTimer)});
+$('#testimonials').addEventListener('mouseleave',resetT);
+goT(0);
+
+/* ---------- BOOKING ---------- */
+var sel=$('#inExp');
+sel.innerHTML='<option value="">— Choose an experience —</option>'+
+  '<optgroup label="Experiences">'+EXP.map(function(x){return '<option value="'+x.id+'">'+x.title+'</option>'}).join('')+'</optgroup>'+
+  '<optgroup label="Journeys">'+TOURS.map(function(t){return '<option value="'+t.id+'">'+t.title+' · '+t.dur+'</option>'}).join('')+'</optgroup>'+
+  '<option value="custom">Custom journey — surprise me</option>';
+$('#inDate').min=new Date().toISOString().split('T')[0];
+$('#bform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var ok=true;
+  function mark(id,bad){var f=$(id);f.classList.toggle('err',bad);if(bad)ok=false}
+  var name=$('#inName').value.trim(),email=$('#inEmail').value.trim(),date=$('#inDate').value;
+  mark('#f-name',name.length<2);
+  mark('#f-email',!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email));
+  mark('#f-date',!date||new Date(date)<new Date(new Date().toDateString()));
+  if(!ok){toast('Please complete the highlighted fields');return}
+  var btn=$('#bsubmit');btn.classList.add('loading');btn.disabled=true;
+  var expTxt=$('#inExp').selectedOptions[0].text,guests=$('#inGuests').value,msg=$('#inMsg').value.trim();
+  setTimeout(function(){
+    btn.classList.remove('loading');btn.disabled=false;
+    $('#bfields').style.display='none';
+    var s=$('#bsuccess');s.classList.add('show');
+    $('#sSummary').textContent='Thank you, '+name.split(' ')[0]+' — '+expTxt+' for '+guests+' on '+date+'. Continue the conversation:';
+    var wa='Salam Foum Zguid Trip! I am '+name+'. I would like to reserve: '+expTxt+' | Date: '+date+' | Guests: '+guests+(msg?' | Notes: '+msg:'');
+    $('#waLink').href='https://wa.me/212661234567?text='+encodeURIComponent(wa);
+    $('#mailLink').href='mailto:hello@foumzguidtrip.com?subject='+encodeURIComponent('Reservation request — '+name)+'&body='+encodeURIComponent(wa+'\n\nEmail: '+email+($('#inWa').value?'\nWhatsApp: '+$('#inWa').value:''));
+    toast('Request prepared — see you in the dunes');
+  },1400);
+});
+$('#bAgain').addEventListener('click',function(){$('#bsuccess').classList.remove('show');$('#bfields').style.display=''});
+
+/* ---------- NEWSLETTER ---------- */
+$('#nlform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var v=$('#nlEmail').value.trim();
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)){toast('Please enter a valid email');return}
+  $('#nlEmail').value='';toast('Welcome to the circle of the dunes ✦');
+});
+
+/* ---------- MISC ---------- */
+$('#yr').textContent=new Date().getFullYear();
+/* pause SMIL for reduced motion */
+if(RM){$$('svg').forEach(function(s){if(s.pauseAnimations)s.pauseAnimations()})}
+})();
+</script>
+</body>
+</html>
